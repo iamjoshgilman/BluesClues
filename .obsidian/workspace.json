@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "2a62925b25c2a2ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "1edee0a5078c4b65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "464b0e4bef9d9c90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6300394c3cfe843e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d180669bb6b2549",
+    "type": "split",
+    "children": [
+      {
+        "id": "6397ec507b30008c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e523a338327a0917",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d412b8b600654e33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "hids",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d21524b0432744bb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb49414dac9a790f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.5
+  },
+  "right": {
+    "id": "efcca45e639a59e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3db1dc4824bf664",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86ffe71d468bca0b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b5255eb5708d9e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03da842766a09c6f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3836353631425198",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - Primary Categories/01 - Phishing Analysis.md"
+              }
+            }
+          },
+          {
+            "id": "38739576ee2ec2ee",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 312.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "6300394c3cfe843e",
+  "lastOpenFiles": [
+    "000 - Global Index.md",
+    "01 - Primary Categories/01 - Security Fundamentals.md",
+    "01 - Primary Categories/01 - Phishing Analysis.md",
+    "03 - Content/03 - Risk.md",
+    "03 - Content/03 - Change and Patch Management.md",
+    "03 - Content/03 - Compliance and Frameworks.md",
+    "03 - Content/03 - Policies and Procedures.md",
+    "02 - Secondary Categories/02 - Governance Risk Compliance (GRC).md",
+    "04 - Templates/Attachments/Pasted image 20230616104555.png",
+    "03 - Content/03 - Protocols and Ports.md",
+    "03 - Content/03 - Network Tools.md",
+    "03 - Content/03 - Network Devices.md",
+    "03 - Content/03 - Network Security.md",
+    "03 - Content/03 - Network common ports.md",
+    "03 - Content/03 - The OSI Model.md",
+    "04 - Templates/Attachments/Pasted image 20230616092127.png",
+    "04 - Templates/Attachments/Pasted image 20230616091242.png",
+    "03 - Content/03 - Network Fundamentals.md",
+    "04 - Templates/Attachments/Pasted image 20230615213521.png",
+    "03 - Content/03 - AAA Control Methods.md",
+    "03 - Content/03 - Email Security.md",
+    "03 - Content/03 - Endpoint Security.md",
+    "03 - Content/03 - Physical Security.md",
+    "02 - Secondary Categories/02 - Networking.md",
+    "04 - Templates/CSS/clutter-free-headings.css",
+    "04 - Templates/CSS/clutter-free-formatting.css",
+    "04 - Templates/CSS/checkbox.css",
+    "04 - Templates/CSS/center-images.css",
+    "04 - Templates/CSS/realistic-highlight.css",
+    "04 - Templates/CSS/omega-hr.css",
+    "04 - Templates/CSS/obsidianite-fonts.css",
+    "04 - Templates/CSS/notation-colour-blocks.css",
+    "04 - Templates/CSS/inline-block-embeds.css",
+    "04 - Templates/CSS",
+    "03 - Content/files/highlight_currentline 1.gif",
+    "03 - Content/files/highlight_currentline.gif",
+    "03 - Content/files/Pasted image 20210907110604.png",
+    "03 - Content/files/Pasted image 20210907111121.png",
+    "03 - Content/files/Pasted image 20210907112215.png",
+    "03 - Content/files/Pasted image 20210907112642.png",
+    "03 - Content/Security Fundamentals.md",
+    "03 - Content/Network ports.md",
+    "03 - Content/Physical Security.md",
+    "undefined/02 - Networking.md",
+    "01 - Primary Categories/Untitled.md",
+    "06 - CTF Reports/03 - CyberLens.md"
+  ]
+}
