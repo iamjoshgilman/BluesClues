@@ -32,11 +32,12 @@ Search Tag: #📖
 	- `message-ID`, showing a unique identification for the message
 	- `message body`, containing the message, separated from the header by a line break
 
+### **Custom X-Headers**
 
+It is important to note that header data is no guarantee of when the message was sent or who sent it, as values can be edited without any requirement for authorization, such as changing the From address to make it look like the email has come from "contact@amazon.co.uk". Additional personalized headers (called **X-headers**) can be set in order to provide the appropriate information. X-headers are called such because their name must begin with **X-**. For example, some anti-spam software programs mark messages as unwanted using the following header: `X-Spam-Status: YES`.
 
-
-
-
+## Email Body
+- An email body is where the information written by the sender is displayed for the recipient. This can be purely text-based or it can include hyperlinks, images, and HTML styling.
 
 
 
