@@ -6,34 +6,24 @@ Search Tag: #🗺
 
 ## Security Controls
 
-[[03 - Physical Security]]
-[[03 - Endpoint Security]]
-[[03 - Email Security]]
-[[03 - Network Security]]
-[[03 - AAA Control Methods]]
+- [[03 - Physical Security]]
+- [[03 - Endpoint Security]]
+- [[03 - Email Security]]
+- [[03 - Network Security]]
+- [[03 - AAA Control Methods]]
 
 ## Networking 101
 
-[[03 - Network Fundamentals]]
-[[03 - The OSI Model]]
-[[03 - Network Devices]]
-[[03 - Network Tools]]
-[[03 - Protocols and Ports]]
+- [[03 - Network Fundamentals]]
+- [[03 - The OSI Model]]
+- [[03 - Network Devices]]
+- [[03 - Network Tools]]
+- [[03 - Protocols and Ports]]
 
 ## Management Principles
 
-[[03 - Risk]]
-[[03 - Policies and Procedures]]
-[[03 - Compliance and Frameworks]]
-[[03 - Change and Patch Management]]
-
-
-
-
-# Frameworks
----
-
-[[03 - NIST Incident Response Process]]
-[[03 - Cyber Kill Chain]]
-[[03 - MITRE ATT&CK Framework]]
+- [[03 - Risk]]
+- [[03 - Policies and Procedures]]
+- [[03 - Compliance and Frameworks]]
+- [[03 - Change and Patch Management]]
 

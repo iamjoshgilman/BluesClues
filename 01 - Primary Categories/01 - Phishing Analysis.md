@@ -51,28 +51,21 @@ Search Tag: #🗺
 
 ## Taking Defensive Actions
 
-- [[03 - Section Introduction]]
-- [[03 - Preventative: Marking External Emails]]
-- [[03 - Preventative: Email Security Technology]]
-- [[03 - Preventative: Spam Filter]]
-- [[03 - Preventative: Attachment Filtering]]
-- [[03 - Preventative: Attachment Sandboxing]]
-- [[03 - Preventative: Security Awareness Training]]
-- [[03 - Reactive: Immediate Response Process]]
-- [[03 - Reactive: Blocking Email Artifacts]]
-- [[03 - Reactive: Blocking Web Artifacts]]
-- [[03 - Reactive: Blocking File Artifacts]]
+- [[03 - Preventative - Marking External Emails]]
+- [[03 - Preventative - Email Security Technology]]
+- [[03 - Preventative - Spam Filter]]
+- [[03 - Preventative - Attachment Filtering]]
+- [[03 - Preventative - Attachment Sandboxing]]
+- [[03 - Preventative - Security Awareness Training]]
+- [[03 - Reactive - Immediate Response Process]]
+- [[03 - Reactive - Blocking Email Artifacts]]
+- [[03 - Reactive - Blocking Web Artifacts]]
+- [[03 - Reactive - Blocking File Artifacts]]
 
 ## Report Writing
 
-- [[03 - Section Introduction]]
 - [[03 - Email Header, Artifacts, and Body Content]]
 - [[03 - Analysis Process, Tools, and Results]]
 - [[03 - Defensive Measures Taken]]
 - [[03 - Artifact Sanitization]]
 
-## Phishing Response Challenge
-
-- [[03 - Section Introduction]]
-- [[03 - Video) Phishing Response Walkthrough]]
-- [[03 - Phishing Response Brief]]
