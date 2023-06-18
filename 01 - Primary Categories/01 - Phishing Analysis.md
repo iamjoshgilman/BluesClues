@@ -43,7 +43,6 @@ Search Tag: #🗺
 
 ## Analyzing Artifacts
 
-- [[03 - Section Introduction]]
 - [[03 - Visualization Tools]]
 - [[03 - URL Reputation Tools]]
 - [[03 - File Reputation Tools]]
