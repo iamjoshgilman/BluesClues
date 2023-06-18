@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Content/03 - Recon.md",
+                "file": "03 - Content/03 - Credential Harvester.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Content/03 - Recon.md",
+                "file": "03 - Content/03 - Credential Harvester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Content/03 - Recon.md",
+                "file": "03 - Content/03 - Credential Harvester.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Content/03 - Recon.md"
+                "file": "03 - Content/03 - Credential Harvester.md"
               }
             }
           },
@@ -182,6 +182,8 @@
   "lastOpenFiles": [
     "01 - Primary Categories/01 - Phishing Analysis.md",
     "03 - Content/03 - Recon.md",
+    "03 - Content/03 - Credential Harvester.md",
+    "04 - Templates/Attachments/Pasted image 20230618115216.png",
     "03 - Content/03 - Domain Glossary.md",
     "03 - Content/03 - Anatomy of an Email.md",
     "03 - Content/03 - How Email Works.md",
@@ -223,8 +225,6 @@
     "04 - Templates/CSS/inline-block-embeds.css",
     "04 - Templates/CSS",
     "03 - Content/files/highlight_currentline 1.gif",
-    "03 - Content/files/highlight_currentline.gif",
-    "03 - Content/files/Pasted image 20210907110604.png",
-    "03 - Content/Security Fundamentals.md"
+    "03 - Content/files/highlight_currentline.gif"
   ]
 }
