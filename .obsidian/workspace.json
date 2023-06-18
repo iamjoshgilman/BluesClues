@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Content/03 - Anatomy of an Email.md",
+                "file": "03 - Content/03 - Recon.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Content/03 - Anatomy of an Email.md",
+                "file": "03 - Content/03 - Recon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Content/03 - Anatomy of an Email.md",
+                "file": "03 - Content/03 - Recon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Content/03 - Anatomy of an Email.md"
+                "file": "03 - Content/03 - Recon.md"
               }
             }
           },
@@ -181,8 +181,11 @@
   "active": "6300394c3cfe843e",
   "lastOpenFiles": [
     "01 - Primary Categories/01 - Phishing Analysis.md",
+    "03 - Content/03 - Recon.md",
+    "03 - Content/03 - Domain Glossary.md",
     "03 - Content/03 - Anatomy of an Email.md",
     "03 - Content/03 - How Email Works.md",
+    "03 - Content/03 - What is Phishing.md",
     "04 - Templates/Attachments/Pasted image 20230616210854.png",
     "04 - Templates/Attachments/Pasted image 20230616210408.png",
     "04 - Templates/Attachments/Pasted image 20230616210146.png",
@@ -222,9 +225,6 @@
     "03 - Content/files/highlight_currentline 1.gif",
     "03 - Content/files/highlight_currentline.gif",
     "03 - Content/files/Pasted image 20210907110604.png",
-    "03 - Content/Security Fundamentals.md",
-    "03 - Content/Network ports.md",
-    "03 - Content/Physical Security.md",
-    "undefined/02 - Networking.md"
+    "03 - Content/Security Fundamentals.md"
   ]
 }
