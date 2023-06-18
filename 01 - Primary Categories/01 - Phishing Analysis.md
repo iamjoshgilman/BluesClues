@@ -18,5 +18,11 @@ Search Tag: #🗺
 [[03 - Social Engineering]]
 [[03 - Vishing and Smishing]]
 [[03 - Whaling]]
+[[03 - Malicious File]]
 [[03 - Spam]]
 [[03 - False Positive]]
+
+## Tactics and Techniques Used
+
+[[03 - Spear Phishing]]
+[[03 - Impersonation]]

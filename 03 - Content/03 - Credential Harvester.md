@@ -18,8 +18,7 @@ Search Tag: #📖
 - It is important that you feel comfortable with identifying credential harvesters, as they can be very damaging if users enter in their details, potentially compromising their work accounts, personal accounts, and opening themselves up to further attacks such as fraud, social engineering, business email compromise, or blackmail.
 - Credentials harvesters are sometimes tailored to impersonate login portals for the organization that is being targeted, increasing the chance that employees will fall for it, and enter credentials that they use for work accounts. Logos and other branding material can often easily be retrieved from a company's website, or search engine results.
 
-key points that often apply to credential harvester emails.
-
+### Key points that often apply to credential harvester emails.
 - **Imitates commonly-used websites and services** (such as Outlook, Amazon, HMRC, DHL, FedEx, and many more).
 - **Entices the recipient to enter credentials into a fake login portal.**
 - **Uses social-engineering tactics including; creating a sense of urgency, and using false authority.**

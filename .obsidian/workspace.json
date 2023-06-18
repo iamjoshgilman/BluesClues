@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Content/03 - Credential Harvester.md",
+                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Content/03 - Credential Harvester.md",
+                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Content/03 - Credential Harvester.md",
+                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Content/03 - Credential Harvester.md"
+                "file": "01 - Primary Categories/01 - Phishing Analysis.md"
               }
             }
           },
@@ -180,9 +180,18 @@
   },
   "active": "6300394c3cfe843e",
   "lastOpenFiles": [
+    "03 - Content/03 - False Positive.md",
     "01 - Primary Categories/01 - Phishing Analysis.md",
-    "03 - Content/03 - Recon.md",
+    "03 - Content/03 - Spam.md",
+    "03 - Content/03 - Malicious File.md",
+    "04 - Templates/Attachments/Pasted image 20230618123009.png",
+    "04 - Templates/Attachments/Pasted image 20230618122856.png",
+    "04 - Templates/Attachments/Pasted image 20230618122611.png",
+    "03 - Content/03 - Whaling.md",
+    "03 - Content/03 - Vishing and Smishing.md",
+    "03 - Content/03 - Social Engineering.md",
     "03 - Content/03 - Credential Harvester.md",
+    "03 - Content/03 - Recon.md",
     "04 - Templates/Attachments/Pasted image 20230618115216.png",
     "03 - Content/03 - Domain Glossary.md",
     "03 - Content/03 - Anatomy of an Email.md",
@@ -207,13 +216,6 @@
     "03 - Content/03 - The OSI Model.md",
     "04 - Templates/Attachments/Pasted image 20230616092127.png",
     "04 - Templates/Attachments/Pasted image 20230616091242.png",
-    "03 - Content/03 - Network Fundamentals.md",
-    "04 - Templates/Attachments/Pasted image 20230615213521.png",
-    "03 - Content/03 - AAA Control Methods.md",
-    "03 - Content/03 - Email Security.md",
-    "03 - Content/03 - Endpoint Security.md",
-    "03 - Content/03 - Physical Security.md",
-    "02 - Secondary Categories/02 - Networking.md",
     "04 - Templates/CSS/clutter-free-headings.css",
     "04 - Templates/CSS/clutter-free-formatting.css",
     "04 - Templates/CSS/checkbox.css",
@@ -223,8 +225,6 @@
     "04 - Templates/CSS/obsidianite-fonts.css",
     "04 - Templates/CSS/notation-colour-blocks.css",
     "04 - Templates/CSS/inline-block-embeds.css",
-    "04 - Templates/CSS",
-    "03 - Content/files/highlight_currentline 1.gif",
-    "03 - Content/files/highlight_currentline.gif"
+    "04 - Templates/CSS"
   ]
 }
