@@ -39,7 +39,6 @@ Search Tag: #🗺
 - [[03 - Manual Collection - Email Artifacts]]
 - [[03 - Manual Collection - Web Artifacts]]
 - [[03 - Manual Collection - File Artifacts]]
-- [[03 - Video) Manually Collecting Artifacts]]
 - [[03 - Automated Collection With PhishTool]]
 
 ## Analyzing Artifacts
