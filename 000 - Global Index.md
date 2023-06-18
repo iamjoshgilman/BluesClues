@@ -10,10 +10,12 @@ tags: #🗺
 [[01 - Threat Intelligence]]
 [[01 - Digital Forensics]]
 [[01 - Security Information and Event Management]]
+[[01 - Incident Response]]
 
 # Secondary Categories
 
 [[02 - Networking]]
+[[02 - Governance Risk Compliance (GRC)]]
 
 
 
