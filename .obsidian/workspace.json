@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
+                "file": "03 - Content/03 - Manual Collection - File Artifacts.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
+                "file": "03 - Content/03 - Manual Collection - File Artifacts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
+                "file": "03 - Content/03 - Manual Collection - File Artifacts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Primary Categories/01 - Phishing Analysis.md"
+                "file": "03 - Content/03 - Manual Collection - File Artifacts.md"
               }
             }
           },
@@ -180,8 +180,18 @@
   },
   "active": "6300394c3cfe843e",
   "lastOpenFiles": [
-    "03 - Content/03 - Automated Collection With PhishTool.md",
     "01 - Primary Categories/01 - Phishing Analysis.md",
+    "03 - Content/03 - Manual Collection - File Artifacts.md",
+    "03 - Content/03 - Manual Collection - Web Artifacts.md",
+    "04 - Templates/Attachments/Pasted image 20230618140716.png",
+    "03 - Content/03 - Manual Collection - Email Artifacts.md",
+    "04 - Templates/Attachments/Pasted image 20230618140443.png",
+    "04 - Templates/Attachments/Pasted image 20230618140428.png",
+    "04 - Templates/Attachments/Pasted image 20230618140344.png",
+    "04 - Templates/Attachments/Pasted image 20230618140326.png",
+    "04 - Templates/Attachments/Pasted image 20230618140217.png",
+    "03 - Content/03 - Artifacts to Collect.md",
+    "03 - Content/03 - Automated Collection With PhishTool.md",
     "03 - Content/03 - Business Email Compromise (BEC).md",
     "03 - Content/03 - URL-Shortening Services.md",
     "03 - Content/03 - Hyperlinks.md",
@@ -198,24 +208,14 @@
     "03 - Content/03 - Spear Phishing.md",
     "03 - Content/03 - False Positive.md",
     "03 - Content/03 - Spam.md",
-    "04 - Templates/Attachments/Pasted image 20230618123009.png",
-    "04 - Templates/Attachments/Pasted image 20230618122856.png",
-    "04 - Templates/Attachments/Pasted image 20230618122611.png",
     "03 - Content/03 - Whaling.md",
     "03 - Content/03 - Vishing and Smishing.md",
     "03 - Content/03 - Social Engineering.md",
     "03 - Content/03 - Credential Harvester.md",
     "03 - Content/03 - Recon.md",
-    "04 - Templates/Attachments/Pasted image 20230618115216.png",
     "03 - Content/03 - Domain Glossary.md",
     "03 - Content/03 - Anatomy of an Email.md",
     "03 - Content/03 - How Email Works.md",
-    "03 - Content/03 - What is Phishing.md",
-    "04 - Templates/Attachments/Pasted image 20230616210854.png",
-    "04 - Templates/Attachments/Pasted image 20230616210408.png",
-    "000 - Global Index.md",
-    "01 - Primary Categories/01 - Security Fundamentals.md",
-    "03 - Content/03 - Risk.md",
     "04 - Templates/CSS/clutter-free-headings.css",
     "04 - Templates/CSS/clutter-free-formatting.css",
     "04 - Templates/CSS/checkbox.css",
