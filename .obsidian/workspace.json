@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Content/03 - Reactive - Blocking File Artifacts.md",
+                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Content/03 - Reactive - Blocking File Artifacts.md",
+                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Content/03 - Reactive - Blocking File Artifacts.md",
+                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Content/03 - Reactive - Blocking File Artifacts.md"
+                "file": "01 - Primary Categories/01 - Phishing Analysis.md"
               }
             }
           },
@@ -180,7 +180,15 @@
   },
   "active": "6300394c3cfe843e",
   "lastOpenFiles": [
+    "03 - Content/03 - Artifact Sanitization.md",
     "01 - Primary Categories/01 - Phishing Analysis.md",
+    "03 - Content/03 - Defensive Measures Taken.md",
+    "03 - Content/03 - Report Writing Activity.md",
+    "03 - Content/03 - Analysis Process, Tools, and Results.md",
+    "04 - Templates/Attachments/Pasted image 20230618170154.png",
+    "03 - Content/03 - Email Header, Artifacts, and Body Content.md",
+    "04 - Templates/Attachments/Pasted image 20230618165854.png",
+    "04 - Templates/Attachments/Pasted image 20230618165833.png",
     "03 - Content/03 - Reactive - Blocking File Artifacts.md",
     "03 - Content/03 - Reactive - Blocking Web Artifacts.md",
     "04 - Templates/Attachments/Pasted image 20230618164008.png",
@@ -202,20 +210,12 @@
     "04 - Templates/Attachments/Pasted image 20230618152909.png",
     "04 - Templates/Attachments/Pasted image 20230618152829.png",
     "04 - Templates/Attachments/Pasted image 20230618152802.png",
-    "04 - Templates/Attachments/Pasted image 20230618152732.png",
     "03 - Content/03 - File Reputation Tools.md",
-    "04 - Templates/Attachments/Pasted image 20230618152505.png",
-    "04 - Templates/Attachments/Pasted image 20230618152427.png",
     "03 - Content/03 - URL Reputation Tools.md",
     "03 - Content/03 - Visualization Tools.md",
     "03 - Content/03 - Manual Collection - File Artifacts.md",
     "03 - Content/03 - Manual Collection - Web Artifacts.md",
     "03 - Content/03 - Automated Collection With PhishTool.md",
-    "03 - Content/03 - Manual Collection - Email Artifacts.md",
-    "03 - Content/03 - Artifacts to Collect.md",
-    "03 - Content/03 - Business Email Compromise (BEC).md",
-    "03 - Content/03 - URL-Shortening Services.md",
-    "03 - Content/03 - Hyperlinks.md",
     "04 - Templates/CSS/clutter-free-headings.css",
     "04 - Templates/CSS/clutter-free-formatting.css",
     "04 - Templates/CSS/checkbox.css",

@@ -68,4 +68,4 @@ Search Tag: #🗺
 - [[03 - Analysis Process, Tools, and Results]]
 - [[03 - Defensive Measures Taken]]
 - [[03 - Artifact Sanitization]]
-
+- [[03 - Report Writing Activity]]
