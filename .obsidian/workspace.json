@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Content/03 - Attachments.md",
+                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Content/03 - Attachments.md",
+                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Content/03 - Attachments.md",
+                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Content/03 - Attachments.md"
+                "file": "01 - Primary Categories/01 - Phishing Analysis.md"
               }
             }
           },
@@ -180,8 +180,15 @@
   },
   "active": "6300394c3cfe843e",
   "lastOpenFiles": [
+    "03 - Content/03 - Automated Collection With PhishTool.md",
     "01 - Primary Categories/01 - Phishing Analysis.md",
+    "03 - Content/03 - Business Email Compromise (BEC).md",
+    "03 - Content/03 - URL-Shortening Services.md",
+    "03 - Content/03 - Hyperlinks.md",
+    "04 - Templates/Attachments/Pasted image 20230618132329.png",
+    "04 - Templates/Attachments/Pasted image 20230618132038.png",
     "03 - Content/03 - Attachments.md",
+    "03 - Content/03 - Malicious File.md",
     "03 - Content/03 - HTML Styling.md",
     "03 - Content/03 - Sender Spoofing.md",
     "03 - Content/03 - Typosquatting and Homographs.md",
@@ -191,7 +198,6 @@
     "03 - Content/03 - Spear Phishing.md",
     "03 - Content/03 - False Positive.md",
     "03 - Content/03 - Spam.md",
-    "03 - Content/03 - Malicious File.md",
     "04 - Templates/Attachments/Pasted image 20230618123009.png",
     "04 - Templates/Attachments/Pasted image 20230618122856.png",
     "04 - Templates/Attachments/Pasted image 20230618122611.png",
@@ -207,15 +213,9 @@
     "03 - Content/03 - What is Phishing.md",
     "04 - Templates/Attachments/Pasted image 20230616210854.png",
     "04 - Templates/Attachments/Pasted image 20230616210408.png",
-    "04 - Templates/Attachments/Pasted image 20230616210146.png",
     "000 - Global Index.md",
     "01 - Primary Categories/01 - Security Fundamentals.md",
     "03 - Content/03 - Risk.md",
-    "03 - Content/03 - Change and Patch Management.md",
-    "03 - Content/03 - Compliance and Frameworks.md",
-    "03 - Content/03 - Policies and Procedures.md",
-    "02 - Secondary Categories/02 - Governance Risk Compliance (GRC).md",
-    "04 - Templates/Attachments/Pasted image 20230616104555.png",
     "04 - Templates/CSS/clutter-free-headings.css",
     "04 - Templates/CSS/clutter-free-formatting.css",
     "04 - Templates/CSS/checkbox.css",

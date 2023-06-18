@@ -27,7 +27,8 @@ Malware can be distributed through email attachments, such as Microsoft Office d
 	- A way to prevent this is by including the hyperlink in a document, such as a PDF or Microsoft Word file. 
 	- This means that the attachment itself isn’t inherently malicious, but the hyperlink inside can be.
 
-
+## [[03 - Malicious File]]
+- The most common form of inherently malicious files is Microsoft Office documents that are utilizing macros to run malicious code on the system that opens the document. They can download additional malware to the system by reaching out to domains on the internet and retrieving files, then executing them.
 
 ___
 
