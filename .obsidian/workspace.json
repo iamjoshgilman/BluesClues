@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
+                "file": "03 - Content/03 - Attachments.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
+                "file": "03 - Content/03 - Attachments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
+                "file": "03 - Content/03 - Attachments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Primary Categories/01 - Phishing Analysis.md"
+                "file": "03 - Content/03 - Attachments.md"
               }
             }
           },
@@ -180,8 +180,16 @@
   },
   "active": "6300394c3cfe843e",
   "lastOpenFiles": [
-    "03 - Content/03 - False Positive.md",
     "01 - Primary Categories/01 - Phishing Analysis.md",
+    "03 - Content/03 - Attachments.md",
+    "03 - Content/03 - HTML Styling.md",
+    "03 - Content/03 - Sender Spoofing.md",
+    "03 - Content/03 - Typosquatting and Homographs.md",
+    "04 - Templates/Attachments/Pasted image 20230618125833.png",
+    "03 - Content/03 - Impersonation.md",
+    "04 - Templates/Attachments/Pasted image 20230618125202.png",
+    "03 - Content/03 - Spear Phishing.md",
+    "03 - Content/03 - False Positive.md",
     "03 - Content/03 - Spam.md",
     "03 - Content/03 - Malicious File.md",
     "04 - Templates/Attachments/Pasted image 20230618123009.png",
@@ -208,14 +216,6 @@
     "03 - Content/03 - Policies and Procedures.md",
     "02 - Secondary Categories/02 - Governance Risk Compliance (GRC).md",
     "04 - Templates/Attachments/Pasted image 20230616104555.png",
-    "03 - Content/03 - Protocols and Ports.md",
-    "03 - Content/03 - Network Tools.md",
-    "03 - Content/03 - Network Devices.md",
-    "03 - Content/03 - Network Security.md",
-    "03 - Content/03 - Network common ports.md",
-    "03 - Content/03 - The OSI Model.md",
-    "04 - Templates/Attachments/Pasted image 20230616092127.png",
-    "04 - Templates/Attachments/Pasted image 20230616091242.png",
     "04 - Templates/CSS/clutter-free-headings.css",
     "04 - Templates/CSS/clutter-free-formatting.css",
     "04 - Templates/CSS/checkbox.css",
