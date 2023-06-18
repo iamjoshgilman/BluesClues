@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Content/03 - Preventative - Email Security Technology.md",
+                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
+                "file": "03 - Content/03 - Reactive - Blocking File Artifacts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Content/03 - Preventative - Email Security Technology.md",
+                "file": "03 - Content/03 - Reactive - Blocking File Artifacts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Content/03 - Preventative - Email Security Technology.md",
+                "file": "03 - Content/03 - Reactive - Blocking File Artifacts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Content/03 - Preventative - Email Security Technology.md"
+                "file": "03 - Content/03 - Reactive - Blocking File Artifacts.md"
               }
             }
           },
@@ -177,9 +178,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "464b0e4bef9d9c90",
+  "active": "6300394c3cfe843e",
   "lastOpenFiles": [
     "01 - Primary Categories/01 - Phishing Analysis.md",
+    "03 - Content/03 - Reactive - Blocking File Artifacts.md",
+    "03 - Content/03 - Reactive - Blocking Web Artifacts.md",
+    "04 - Templates/Attachments/Pasted image 20230618164008.png",
+    "03 - Content/03 - Reactive - Blocking Email Artifacts.md",
+    "03 - Content/03 - Reactive - Immediate Response Process.md",
+    "03 - Content/03 - Preventative - Security Awareness Training.md",
+    "03 - Content/03 - Preventative - Attachment Sandboxing.md",
+    "03 - Content/03 - Preventative - Attachment Filtering.md",
+    "03 - Content/03 - Preventative - Spam Filter.md",
+    "04 - Templates/Attachments/Pasted image 20230618161815.png",
     "03 - Content/03 - Preventative - Email Security Technology.md",
     "03 - Content/03 - Preventative - Marking External Emails.md",
     "000 - Global Index.md",
@@ -197,8 +208,6 @@
     "04 - Templates/Attachments/Pasted image 20230618152427.png",
     "03 - Content/03 - URL Reputation Tools.md",
     "03 - Content/03 - Visualization Tools.md",
-    "04 - Templates/Attachments/Pasted image 20230618151458.png",
-    "04 - Templates/Attachments/Pasted image 20230618151440.png",
     "03 - Content/03 - Manual Collection - File Artifacts.md",
     "03 - Content/03 - Manual Collection - Web Artifacts.md",
     "03 - Content/03 - Automated Collection With PhishTool.md",
@@ -207,14 +216,6 @@
     "03 - Content/03 - Business Email Compromise (BEC).md",
     "03 - Content/03 - URL-Shortening Services.md",
     "03 - Content/03 - Hyperlinks.md",
-    "03 - Content/03 - Attachments.md",
-    "03 - Content/03 - Malicious File.md",
-    "03 - Content/03 - HTML Styling.md",
-    "03 - Content/03 - Sender Spoofing.md",
-    "03 - Content/03 - Typosquatting and Homographs.md",
-    "03 - Content/03 - Impersonation.md",
-    "03 - Content/03 - Spear Phishing.md",
-    "03 - Content/03 - False Positive.md",
     "04 - Templates/CSS/clutter-free-headings.css",
     "04 - Templates/CSS/clutter-free-formatting.css",
     "04 - Templates/CSS/checkbox.css",
