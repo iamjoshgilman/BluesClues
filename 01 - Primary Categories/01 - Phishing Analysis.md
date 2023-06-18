@@ -47,6 +47,7 @@ Search Tag: #🗺
 - [[03 - URL Reputation Tools]]
 - [[03 - File Reputation Tools]]
 - [[03 - Malware Sandboxing]]
+- [[03 - Automated Artifact Analysis]]
 
 ## Taking Defensive Actions
 

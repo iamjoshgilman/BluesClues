@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Content/03 - URL Reputation Tools.md",
+                "file": "03 - Content/03 - Automated Artifact Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Content/03 - URL Reputation Tools.md",
+                "file": "03 - Content/03 - Automated Artifact Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Content/03 - URL Reputation Tools.md",
+                "file": "03 - Content/03 - Automated Artifact Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Content/03 - URL Reputation Tools.md"
+                "file": "03 - Content/03 - Automated Artifact Analysis.md"
               }
             }
           },
@@ -180,7 +180,18 @@
   },
   "active": "6300394c3cfe843e",
   "lastOpenFiles": [
+    "04 - Templates/Attachments/Pasted image 20230618153727.png",
+    "04 - Templates/Attachments/Pasted image 20230618153649.png",
     "01 - Primary Categories/01 - Phishing Analysis.md",
+    "03 - Content/03 - Automated Artifact Analysis.md",
+    "03 - Content/03 - Malware Sandboxing.md",
+    "04 - Templates/Attachments/Pasted image 20230618152909.png",
+    "04 - Templates/Attachments/Pasted image 20230618152829.png",
+    "04 - Templates/Attachments/Pasted image 20230618152802.png",
+    "04 - Templates/Attachments/Pasted image 20230618152732.png",
+    "03 - Content/03 - File Reputation Tools.md",
+    "04 - Templates/Attachments/Pasted image 20230618152505.png",
+    "04 - Templates/Attachments/Pasted image 20230618152427.png",
     "03 - Content/03 - URL Reputation Tools.md",
     "03 - Content/03 - Visualization Tools.md",
     "04 - Templates/Attachments/Pasted image 20230618151458.png",
@@ -189,14 +200,7 @@
     "03 - Content/03 - Manual Collection - Web Artifacts.md",
     "03 - Content/03 - Automated Collection With PhishTool.md",
     "04 - Templates/Attachments/Pasted image 20230618144338.png",
-    "04 - Templates/Attachments/Pasted image 20230618144239.png",
-    "04 - Templates/Attachments/Pasted image 20230618144217.png",
-    "04 - Templates/Attachments/Pasted image 20230618144138.png",
-    "04 - Templates/Attachments/Pasted image 20230618144059.png",
-    "04 - Templates/Attachments/Pasted image 20230618144029.png",
-    "04 - Templates/Attachments/Pasted image 20230618140716.png",
     "03 - Content/03 - Manual Collection - Email Artifacts.md",
-    "04 - Templates/Attachments/Pasted image 20230618140443.png",
     "03 - Content/03 - Artifacts to Collect.md",
     "03 - Content/03 - Business Email Compromise (BEC).md",
     "03 - Content/03 - URL-Shortening Services.md",
@@ -212,10 +216,6 @@
     "03 - Content/03 - Spam.md",
     "03 - Content/03 - Whaling.md",
     "03 - Content/03 - Vishing and Smishing.md",
-    "03 - Content/03 - Social Engineering.md",
-    "03 - Content/03 - Credential Harvester.md",
-    "03 - Content/03 - Recon.md",
-    "03 - Content/03 - Domain Glossary.md",
     "04 - Templates/CSS/clutter-free-headings.css",
     "04 - Templates/CSS/clutter-free-formatting.css",
     "04 - Templates/CSS/checkbox.css",

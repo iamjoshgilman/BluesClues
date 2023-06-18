@@ -22,33 +22,29 @@ It's crucial to remember that if a URL is not identified as malicious by online 
 
 Reputation sites are a good resource, but they are not foolproof. Unique and targeted attacks may not have been analyzed by other security professionals, leading to URLs with no negative comments that can still be extremely malicious. Additional analysis is always necessary.
 
-## VirusTotal
+# VirusTotal
 
 1. Visit VirusTotal and click on the URL tab.
 2. Enter the URL you want to check for reputation.
 3. VirusTotal will provide you with a reputation score and information from various vendors.
 4. Pay attention to the vendors that flag the URL as malicious, indicating potential threats. Vendors like Kaspersky, ESET, and Fortinet in the example screenshot.
 
-## URLScan
+# URLScan
 
 1. URLScan is a service that offers detailed information about a URL.
 2. Enter the URL you want to analyze, similar to the one checked on VirusTotal.
 3. URLScan will provide extensive information such as reputation score, screenshot, web technologies used, domain and IP details.
 4. While all the information can be useful during high-profile investigations, utilizing URL2PNG for visualization purposes will generally suffice.
 
-## Threat Feeds
+# Threat Feeds
 
-Public threat feeds offer valuable intelligence for security teams to combat phishing attacks and identify malicious artifacts. Here are two examples:
-
-1. URLhaus Database: A vast collection of malicious URLs reported by researchers. It provides information such as the date the URL was added, the malicious URL itself, status (availability), tags indicating the type of malware, and the user who reported the URLs.
-2. PhishTank: Similar to URLhaus, it allows users to submit phishing artifacts verified by the community.
+Public threat feeds offer valuable intelligence for security teams to combat phishing attacks and identify malicious artifacts. Here are two examples:
+- [URLhaus Database](https://urlhaus.abuse.ch/browse/)Database: 
+	- A vast collection of malicious URLs reported by researchers. It provides information such as the date the URL was added, the malicious URL itself, status (availability), tags indicating the type of malware, and the user who reported the URLs.
+- [PhishTank](https://www.phishtank.com/): 
+	- Similar to URLhaus, it allows users to submit phishing artifacts verified by the community.
 
 These threat feeds can be used to generate blacklists of known malicious URLs, which can proactively block users from accessing these sites.
-
-Reputation checks and threat feeds are valuable tools to assess the reputation and potential threat of URLs. However, they should be used as part of a comprehensive analysis approach, considering additional factors and performing further investigations when necessary.
-
-Let me know if there's anything else I can help you with!
-
 
 
 ___
