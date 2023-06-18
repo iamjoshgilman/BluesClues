@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
+                "file": "03 - Content/03 - Analysis Process, Tools, and Results.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
+                "file": "03 - Content/03 - Analysis Process, Tools, and Results.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
+                "file": "03 - Content/03 - Analysis Process, Tools, and Results.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Primary Categories/01 - Phishing Analysis.md"
+                "file": "03 - Content/03 - Analysis Process, Tools, and Results.md"
               }
             }
           },
@@ -180,8 +180,8 @@
   },
   "active": "6300394c3cfe843e",
   "lastOpenFiles": [
-    "03 - Content/03 - Artifact Sanitization.md",
     "01 - Primary Categories/01 - Phishing Analysis.md",
+    "03 - Content/03 - Artifact Sanitization.md",
     "03 - Content/03 - Defensive Measures Taken.md",
     "03 - Content/03 - Report Writing Activity.md",
     "03 - Content/03 - Analysis Process, Tools, and Results.md",
