@@ -20,7 +20,7 @@ Search Tag: #🗺
 - [[03 - Common Threat Agents]]
 - [[03 - Motivations]]
 - [[03 - Actor Naming Conventions]]
-- [[03 - What Are APTs?]]
+- [[03 - What Are APTs]]
 - [[03 - Tools, Techniques, Procedures]]
 
 ## Operational Threat Intelligence
@@ -35,15 +35,14 @@ Search Tag: #🗺
 ## Tactical Threat Intelligence
 
 - [[03 - Threat Exposure Checks Explained]]
-- [[03 - Watchlists/IOC Monitoring]]
+- [[IOC Monitoring]]
 - [[03 - Public Exposure Checks Explained]]
 - [[03 - Threat Intelligence Platforms]]
 - [[03 - Malware Information Sharing Platform (MISP)]]
-- [[03 - Deploying MISP]]
 
 ## Strategic Threat Intelligence
 
 - [[03 - Intelligence Sharing and Partnerships]]
-- [[03 - IOC/TTP Gathering and Distribution]]
+- [[TTP Gathering and Distribution]]
 - [[03 - OSINT vs Paid-for Sources]]
-- [[03 - Traffic Light Protocol]]
+- [[03 - Traffic Light Protocol (TLP)]]
