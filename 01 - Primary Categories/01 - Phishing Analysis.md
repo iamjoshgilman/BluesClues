@@ -69,3 +69,7 @@ Search Tag: #🗺
 - [[03 - Defensive Measures Taken]]
 - [[03 - Artifact Sanitization]]
 - [[03 - Report Writing Activity]]
+
+# Capstone Lab
+
+- [[03 - Phishing Capstone Lab]]
