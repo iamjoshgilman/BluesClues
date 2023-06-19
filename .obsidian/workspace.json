@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 - Global Index.md",
+                "file": "01 - Primary Categories/01 - Threat Intelligence.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
+                "file": "03 - Content/03 - Threat Intelligence Explained.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 - Global Index.md",
+                "file": "03 - Content/03 - Threat Intelligence Explained.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 - Global Index.md",
+                "file": "03 - Content/03 - Threat Intelligence Explained.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 - Global Index.md"
+                "file": "03 - Content/03 - Threat Intelligence Explained.md"
               }
             }
           },
@@ -177,11 +178,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "464b0e4bef9d9c90",
+  "active": "6300394c3cfe843e",
   "lastOpenFiles": [
-    "01 - Primary Categories/01 - Phishing Analysis.md",
-    "000 - Global Index.md",
     "01 - Primary Categories/01 - Threat Intelligence.md",
+    "03 - Content/03 - Threat Intelligence Explained.md",
+    "000 - Global Index.md",
+    "03 - Content/03 - Anatomy of an Email.md",
+    "01 - Primary Categories/01 - Phishing Analysis.md",
     "01 - Primary Categories/01 - Incident Response.md",
     "01 - Primary Categories/01 - Security Information and Event Management.md",
     "01 - Primary Categories/01 - Digital Forensics.md",
@@ -213,8 +216,6 @@
     "04 - Templates/Attachments/Pasted image 20230618152909.png",
     "04 - Templates/Attachments/Pasted image 20230618152829.png",
     "04 - Templates/Attachments/Pasted image 20230618152802.png",
-    "03 - Content/03 - File Reputation Tools.md",
-    "03 - Content/03 - URL Reputation Tools.md",
     "04 - Templates/CSS/clutter-free-headings.css",
     "04 - Templates/CSS/clutter-free-formatting.css",
     "04 - Templates/CSS/checkbox.css",
