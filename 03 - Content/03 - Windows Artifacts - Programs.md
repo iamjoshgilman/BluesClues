@@ -19,7 +19,7 @@ This lesson focuses on artifacts that can be gathered from systems running Windo
 
 **Artifact Description:** LNK files serve as shortcuts in the Windows OS, linking one file to another. They provide metadata about the linked file, including the folder location, creation date, modification date, last access date, and file size.
 
-**Artifact Location:** LNK files can be found at: C:\Users\$USER$\AppData\Roaming\Microsoft\Windows\Recent
+**Artifact Location:** LNK files can be found at: `C:\Users\$USER$\AppData\Roaming\Microsoft\Windows\Recent`
 
 **Artifact Analysis:** To view LNK files in a human-readable format, Windows File Analyzer can be used. It allows the analysis of LNK files and provides information such as filename, linked path, creation date, modification date, last access date, and file size. Individual LNK files can be examined separately, and the information can be saved or copied for further use.
 
@@ -27,7 +27,7 @@ This lesson focuses on artifacts that can be gathered from systems running Windo
 
 **Artifact Description:** Prefetch files contain valuable information about programs, including the application name, executable file path, last run time, and creation/installation time.
 
-**Artifact Location:** Prefetch files can be found at: C:\Windows\Prefetch
+**Artifact Location:** Prefetch files can be found at: `C:\Windows\Prefetch`
 
 **Artifact Analysis:** Prefetch Explorer Command Line (PECmd.exe) is a tool used to analyze prefetch files. By using an administrative-level command prompt, the prefetch files can be accessed and analyzed. PECmd.exe provides information such as the number of times a file has been run, creation time, modification time, last access time, and related file paths. This analysis helps determine when files were last run, the frequency of their usage, and their file paths.
 

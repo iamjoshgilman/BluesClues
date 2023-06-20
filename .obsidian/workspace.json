@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Content/03 - Windows Artifacts - Programs.md",
+                "file": "03 - Content/03 - Autopsy Walkthrough.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Content/03 - Windows Artifacts - Programs.md",
+                "file": "03 - Content/03 - Autopsy Walkthrough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Content/03 - Windows Artifacts - Programs.md",
+                "file": "03 - Content/03 - Autopsy Walkthrough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Content/03 - Windows Artifacts - Programs.md"
+                "file": "03 - Content/03 - Autopsy Walkthrough.md"
               }
             }
           },
@@ -181,50 +181,50 @@
   "active": "6300394c3cfe843e",
   "lastOpenFiles": [
     "01 - Primary Categories/01 - Digital Forensics.md",
+    "03 - Content/03 - Autopsy Walkthrough.md",
+    "03 - Content/03 - What is Autopsy.md",
+    "03 - Content/03 - Volatility Walkthrough.md",
+    "01 - Primary Categories/01 - Incident Response.md",
+    "01 - Primary Categories/01 - Phishing Analysis.md",
+    "01 - Primary Categories/01 - Security Fundamentals.md",
+    "01 - Primary Categories/01 - Security Information and Event Management.md",
+    "01 - Primary Categories/03 - Further Reading, Threat Intelligence.md",
+    "03 - Linux Artifacts -/Var/Lib and /Var/Log.md",
+    "03 - Linux Artifacts -/Var/Lib and /Var",
+    "03 - Linux Artifacts -/Var/Lib and ",
+    "03 - Linux Artifacts -/Var",
+    "03 - Linux Artifacts -",
+    "03 - Content/03 - What is Volatility.md",
+    "03 - Content/03 - Linux Artifacts - User Files.md",
+    "03 - Content/03 - Linux Artifacts - Memory.md",
+    "03 - Content/03 - Linux Artifacts - Var-Lib and Var-Log.md",
+    "03 - Linux Artifacts - /Var/Lib and /Var/Log.md",
+    "03 - Linux Artifacts - /Var/Lib and /Var",
+    "03 - Linux Artifacts - /Var/Lib and ",
+    "03 - Linux Artifacts - /Var",
+    "03 - Linux Artifacts - ",
+    "03 - Content/Log.md",
+    "03 - Linux Artifacts -/Var/Lib and/Var",
+    "03 - Linux Artifacts -/Var/Lib and",
+    "03 - Content/03 - Linux Artifacts - Passwd and Shadow.md",
+    "03 - Content/03 - Windows Artifacts - Recycle Bin.md",
+    "03 - Content/03 - Windows Artifacts - Logon Events.md",
+    "03 - Content/03 - Windows Artifacts - Browsers.md",
     "03 - Content/03 - Windows Artifacts - Programs.md",
+    "03 - Content/03 - Live Acquisition - KAPE.md",
     "03 - Content/03 - ACPO Principles.md",
     "03 - Content/03 - Evidence Destruction.md",
-    "03 - Content/03 - Live Acquisition - KAPE.md",
     "03 - Content/03 - Live Forensics.md",
     "03 - Content/03 - Disk Imager - FTK Imager.md",
     "04 - Templates/Attachments/Pasted image 20230619195724.png",
     "04 - Templates/Attachments/Pasted image 20230619195658.png",
-    "03 - Content/03 - Chain of Custody.md",
-    "03 - Content/03 - Equipment.md",
-    "03 - Content/03 - Digital Evidence and Handling.md",
-    "03 - Content/03 - Hashing and Integrity.md",
-    "03 - Content/03 - Memory, Pagefile, and Hibernation File.md",
-    "03 - Content/03 - Metadata and File Carving.md",
-    "03 - Content/03 - Order of Volatility.md",
-    "03 - Content/03 - File Systems.md",
-    "03 - Content/03 - Solid State Disk Drive Basics.md",
-    "03 - Content/03 - Hard Disk Drive Basics.md",
-    "03 - Content/03 - Introduction to Data Representation.md",
-    "03 - Content/03 - Digital Forensics Glossary.md",
-    "03 - Content/03 - Further Reading Material, Digital Forensics.md",
-    "03 - Content/03 - Digital Forensics Process.md",
-    "000 - Global Index.md",
-    "01 - Primary Categories/01 - Threat Intelligence.md",
-    "03 - Content/03 - The Future of Threat Intelligence.md",
-    "03 - Content/03 - What is Digital Forensics.md",
-    "03 - Content/03 - Intelligence Sharing and Partnerships.md",
     "04 - Templates/Attachments/Pasted image 20230619122211.png",
     "04 - Templates/Attachments/Pasted image 20230619121741.png",
-    "03 - IOC",
     "04 - Templates/Attachments/Pasted image 20230619110823.png",
-    "03 - Watchlists",
     "04 - Templates/Attachments/Pasted image 20230619105113.png",
     "04 - Templates/Attachments/Pasted image 20230619094517.png",
     "04 - Templates/Attachments/Pasted image 20230619093442.png",
     "04 - Templates/Attachments/Pasted image 20230619084306.png",
-    "04 - Templates/Attachments/Pasted image 20230618170154.png",
-    "04 - Templates/CSS/clutter-free-headings.css",
-    "04 - Templates/CSS/clutter-free-formatting.css",
-    "04 - Templates/CSS/checkbox.css",
-    "04 - Templates/CSS/center-images.css",
-    "04 - Templates/CSS/realistic-highlight.css",
-    "04 - Templates/CSS/omega-hr.css",
-    "04 - Templates/CSS/obsidianite-fonts.css",
-    "04 - Templates/CSS/notation-colour-blocks.css"
+    "04 - Templates/Attachments/Pasted image 20230618170154.png"
   ]
 }

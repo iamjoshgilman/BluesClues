@@ -43,20 +43,17 @@ Search Tag: #🗺
 
 ## Linux Investigations
 
-- [[03 - Section Introduction, Linux Investigations]]
-- [[03 - Linux Artifacts: Passwd and Shadow]]
-- [[03 - Linux Artifacts: /Var/Lib and /Var/Log]]
-- [[03 - Linux Artifacts: User Files]]
-- [[03 - Linux Artifacts: Memory]]
+- [[03 - Linux Artifacts - Passwd and Shadow]]
+- [[03 - Linux Artifacts - Var-Lib and Var-Log]]
+- [[03 - Linux Artifacts - User Files]]
+- [[03 - Linux Artifacts - Memory]]
 
 ## Memory Analysis With Volatility
 
-- [[03 - Section Introduction, Volatility]]
 - [[03 - What is Volatility]]
 - [[03 - Volatility Walkthrough]]
 
 ## Disk Analysis With Autopsy
 
-- [[03 - Section Introduction, Autopsy]]
-- [[03 - What is Autopsy?]]
+- [[03 - What is Autopsy]]
 - [[03 - Autopsy Walkthrough]]
