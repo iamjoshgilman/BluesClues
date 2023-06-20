@@ -54,7 +54,12 @@ Search Tag: #📖
 ## Real-World Hard Drive Copy
 
 1. The first diagram illustrates copying a hard drive to create a .img file on the forensic workstation.
-2. The second diagram shows how FTK Imager can write the contents of the investigated hard drive to a blank hard drive.
+
+![[Pasted image 20230619195658.png]]
+
+1. The second diagram shows how FTK Imager can write the contents of the investigated hard drive to a blank hard drive.
+
+![[Pasted image 20230619195724.png]]
 
 ## Practice with FTK Imager
 

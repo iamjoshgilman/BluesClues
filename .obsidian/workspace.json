@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Content/03 - Live Forensics.md",
+                "file": "03 - Content/03 - Evidence Destruction.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Content/03 - Live Forensics.md",
+                "file": "03 - Content/03 - Evidence Destruction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Content/03 - Live Forensics.md",
+                "file": "03 - Content/03 - Evidence Destruction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Content/03 - Live Forensics.md"
+                "file": "03 - Content/03 - Evidence Destruction.md"
               }
             }
           },
@@ -181,8 +181,12 @@
   "active": "6300394c3cfe843e",
   "lastOpenFiles": [
     "01 - Primary Categories/01 - Digital Forensics.md",
+    "03 - Content/03 - Evidence Destruction.md",
+    "03 - Content/03 - Live Acquisition - KAPE.md",
     "03 - Content/03 - Live Forensics.md",
     "03 - Content/03 - Disk Imager - FTK Imager.md",
+    "04 - Templates/Attachments/Pasted image 20230619195724.png",
+    "04 - Templates/Attachments/Pasted image 20230619195658.png",
     "03 - Content/03 - ACPO Principles.md",
     "03 - Content/03 - Chain of Custody.md",
     "03 - Content/03 - Equipment.md",
@@ -205,8 +209,6 @@
     "03 - Content/03 - Intelligence Sharing and Partnerships.md",
     "03 - Content/03 - Traffic Light Protocol (TLP).md",
     "04 - Templates/Attachments/Pasted image 20230619122211.png",
-    "03 - Content/03 - OSINT vs Paid-for Sources.md",
-    "03 - Content/TTP Gathering and Distribution.md",
     "04 - Templates/Attachments/Pasted image 20230619121741.png",
     "03 - IOC",
     "04 - Templates/Attachments/Pasted image 20230619110823.png",
@@ -216,8 +218,6 @@
     "04 - Templates/Attachments/Pasted image 20230619093442.png",
     "04 - Templates/Attachments/Pasted image 20230619084306.png",
     "04 - Templates/Attachments/Pasted image 20230618170154.png",
-    "04 - Templates/Attachments/Pasted image 20230618165854.png",
-    "04 - Templates/Attachments/Pasted image 20230618165833.png",
     "04 - Templates/CSS/clutter-free-headings.css",
     "04 - Templates/CSS/clutter-free-formatting.css",
     "04 - Templates/CSS/checkbox.css",
