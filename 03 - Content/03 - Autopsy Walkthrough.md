@@ -101,8 +101,6 @@ Search Tag: #📖
 31. Export a specific email file and open it using an email client or text editor.
    - Extracted information may include sender, recipient, date/time, subject, and more.
 
-These notes cover the process of starting a new case, importing a data source, running ingest modules, and analyzing the results using Autopsy.
-
 
 ___
 

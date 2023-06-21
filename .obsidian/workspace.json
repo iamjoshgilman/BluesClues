@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Content/03 - What is a SIEM.md",
+                "file": "03 - Content/03 - Autopsy Walkthrough.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Content/03 - What is a SIEM.md",
+                "file": "03 - Content/03 - Autopsy Walkthrough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Content/03 - What is a SIEM.md",
+                "file": "03 - Content/03 - Autopsy Walkthrough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Content/03 - What is a SIEM.md"
+                "file": "03 - Content/03 - Autopsy Walkthrough.md"
               }
             }
           },
@@ -180,9 +180,12 @@
   },
   "active": "6300394c3cfe843e",
   "lastOpenFiles": [
-    "04 - Templates/Attachments/Pasted image 20230620193158.png",
     "01 - Primary Categories/01 - Security Information and Event Management.md",
     "03 - Content/03 - What is a SIEM.md",
+    "03 - Content/03 - SIEM Platforms.md",
+    "03 - Content/03 - SIEM Glossary.md",
+    "03 - Content/03 - Further Reading Material, SIEM.md",
+    "04 - Templates/Attachments/Pasted image 20230620193158.png",
     "03 - Content/03 - Security Event Management (SEM).md",
     "04 - Templates/Attachments/Pasted image 20230620192951.png",
     "03 - Content/03 - Security Information Management (SIM).md",
@@ -215,8 +218,6 @@
     "03 - Content/03 - Windows Artifacts - Recycle Bin.md",
     "03 - Content/03 - Windows Artifacts - Logon Events.md",
     "03 - Content/03 - Windows Artifacts - Browsers.md",
-    "03 - Content/03 - Windows Artifacts - Programs.md",
-    "03 - Content/03 - Live Acquisition - KAPE.md",
     "04 - Templates/Attachments/Pasted image 20230619195724.png",
     "04 - Templates/Attachments/Pasted image 20230619195658.png",
     "04 - Templates/Attachments/Pasted image 20230619122211.png",
@@ -224,7 +225,6 @@
     "04 - Templates/Attachments/Pasted image 20230619110823.png",
     "04 - Templates/Attachments/Pasted image 20230619105113.png",
     "04 - Templates/Attachments/Pasted image 20230619094517.png",
-    "04 - Templates/Attachments/Pasted image 20230619093442.png",
-    "04 - Templates/Attachments/Pasted image 20230619084306.png"
+    "04 - Templates/Attachments/Pasted image 20230619093442.png"
   ]
 }

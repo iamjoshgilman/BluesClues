@@ -11,6 +11,8 @@ Search Tag: #🗺
 - [[03 - Security Event Management (SEM)]]
 - [[03 - What is a SIEM]]
 - [[03 - SIEM Platforms]]
+- [[03 - Further Reading Material, SIEM]]
+- [[03 - SIEM Glossary]]
 
 ## Logging and Aggregation
 
