@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Content/03 - Autopsy Walkthrough.md",
+                "file": "03 - Content/03 - Syslog.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Content/03 - Autopsy Walkthrough.md",
+                "file": "03 - Content/03 - Syslog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Content/03 - Autopsy Walkthrough.md",
+                "file": "03 - Content/03 - Syslog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Content/03 - Autopsy Walkthrough.md"
+                "file": "03 - Content/03 - Syslog.md"
               }
             }
           },
@@ -181,6 +181,10 @@
   "active": "6300394c3cfe843e",
   "lastOpenFiles": [
     "01 - Primary Categories/01 - Security Information and Event Management.md",
+    "03 - Content/03 - Syslog.md",
+    "03 - Content/03 - What is Logging.md",
+    "000 - Global Index.md",
+    "03 - Content/03 - Autopsy Walkthrough.md",
     "03 - Content/03 - What is a SIEM.md",
     "03 - Content/03 - SIEM Platforms.md",
     "03 - Content/03 - SIEM Glossary.md",
@@ -191,7 +195,6 @@
     "03 - Content/03 - Security Information Management (SIM).md",
     "01 - Primary Categories/01 - Digital Forensics.md",
     "01 - Primary Categories/03 - Further Reading, Threat Intelligence.md",
-    "03 - Content/03 - Autopsy Walkthrough.md",
     "03 - Content/03 - What is Autopsy.md",
     "03 - Content/03 - Volatility Walkthrough.md",
     "01 - Primary Categories/01 - Incident Response.md",
@@ -215,9 +218,6 @@
     "03 - Linux Artifacts -/Var/Lib and/Var",
     "03 - Linux Artifacts -/Var/Lib and",
     "03 - Content/03 - Linux Artifacts - Passwd and Shadow.md",
-    "03 - Content/03 - Windows Artifacts - Recycle Bin.md",
-    "03 - Content/03 - Windows Artifacts - Logon Events.md",
-    "03 - Content/03 - Windows Artifacts - Browsers.md",
     "04 - Templates/Attachments/Pasted image 20230619195724.png",
     "04 - Templates/Attachments/Pasted image 20230619195658.png",
     "04 - Templates/Attachments/Pasted image 20230619122211.png",

@@ -16,7 +16,7 @@ Search Tag: #🗺
 
 ## Logging and Aggregation
 
-- [[03 - What is Logging?]]
+- [[03 - What is Logging]]
 - [[03 - Syslog]]
 - [[03 - Windows Event Logs]]
 - [[03 - Sysmon]]
