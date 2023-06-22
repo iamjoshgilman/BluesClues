@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Content/03 - Splunk Crash Course - Navigating Splunk.md",
+                "file": "03 - Content/03 - Splunk Crash Course - Search Queries.md",
                 "mode": "preview",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
+                "file": "03 - Content/03 - Visualization Tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
+                "file": "03 - Content/03 - Splunk Crash Course - Search Queries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
+                "file": "03 - Content/03 - Splunk Crash Course - Search Queries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Primary Categories/01 - Phishing Analysis.md"
+                "file": "03 - Content/03 - Splunk Crash Course - Search Queries.md"
               }
             }
           },
@@ -178,12 +177,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bdc206b4a2bfaa39",
+  "active": "464b0e4bef9d9c90",
   "lastOpenFiles": [
+    "01 - Primary Categories/01 - Security Information and Event Management.md",
+    "03 - Content/03 - Splunk Crash Course - Navigating Splunk.md",
+    "03 - Content/03 - Visualization Tools.md",
+    "01 - Primary Categories/01 - Phishing Analysis.md",
     "01 - Primary Categories/01 - Security Fundamentals.md",
     "01 - Primary Categories/01 - Digital Forensics.md",
-    "03 - Content/03 - Splunk Crash Course - Navigating Splunk.md",
-    "01 - Primary Categories/01 - Security Information and Event Management.md",
     "03 - Content/03 - Splunk Crash Course - Search Queries.md",
     "000 - Global Index.md",
     "02 - Secondary Categories/02 - Networking.md",
@@ -209,9 +210,7 @@
     "03 - Content/03 - SIEM Glossary.md",
     "03 - Content/03 - Further Reading Material, SIEM.md",
     "04 - Templates/Attachments/Pasted image 20230620193158.png",
-    "03 - Content/03 - Security Event Management (SEM).md",
     "04 - Templates/Attachments/Pasted image 20230620192951.png",
-    "03 - Content/03 - Security Information Management (SIM).md",
     "03 - Linux Artifacts -/Var/Lib and /Var",
     "03 - Linux Artifacts -/Var/Lib and ",
     "03 - Linux Artifacts -/Var",
