@@ -28,6 +28,7 @@ Search Tag: #🗺
 - [[03 - Normalization and Processing]]
 - [[03 - SIEM Rules]]
 - [[03 - Sigma]]
+- [[03 - Writing Sigma Rules]]
 
 ## Using Splunk SIEM
 

@@ -18,7 +18,7 @@ tags: #🗺
 [[02 - Governance Risk Compliance (GRC)]]
 
 
-
+---
 ## Resources:
 
 | Hyperlink | Info |

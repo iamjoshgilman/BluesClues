@@ -1,4 +1,4 @@
-Primary Categories: [[]] 
+Primary Categories: [[000 - Global Index]] 
 Secondary Categories: [[]] 
 Search Tag: #🗺  
 
@@ -6,5 +6,5 @@ Search Tag: #🗺
 ***
 
 ### [[03 - Network Security]]
-[[03 - Network common ports]]
+[[03 - Protocols and Ports]]
 
