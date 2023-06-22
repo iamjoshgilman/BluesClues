@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 - Global Index.md",
+                "file": "03 - Content/03 - Splunk Crash Course - Navigating Splunk.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "bdc206b4a2bfaa39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 - Global Index.md",
+                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 - Global Index.md",
+                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 - Global Index.md"
+                "file": "01 - Primary Categories/01 - Phishing Analysis.md"
               }
             }
           },
@@ -165,18 +178,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "464b0e4bef9d9c90",
+  "active": "bdc206b4a2bfaa39",
   "lastOpenFiles": [
+    "01 - Primary Categories/01 - Security Fundamentals.md",
+    "01 - Primary Categories/01 - Digital Forensics.md",
+    "03 - Content/03 - Splunk Crash Course - Navigating Splunk.md",
     "01 - Primary Categories/01 - Security Information and Event Management.md",
+    "03 - Content/03 - Splunk Crash Course - Search Queries.md",
     "000 - Global Index.md",
     "02 - Secondary Categories/02 - Networking.md",
-    "01 - Primary Categories/01 - Digital Forensics.md",
-    "01 - Primary Categories/01 - Security Fundamentals.md",
     "03 - Content/03 - Writing Sigma Rules.md",
     "03 - Content/03 - Splunk Crash Course - Creating Dashboards.md",
     "03 - Content/03 - Splunk Crash Course - Creating Alerts.md",
-    "03 - Content/03 - Splunk Crash Course - Search Queries.md",
-    "03 - Content/03 - Splunk Crash Course - Navigating Splunk.md",
     "03 - Content/03 - Sigma.md",
     "03 - Content/03 - SIEM Rules.md",
     "03 - Content/03 - Normalization and Processing.md",
