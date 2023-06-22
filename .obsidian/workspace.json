@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Content/03 - Splunk Crash Course - Search Queries.md",
-                "mode": "preview",
+                "file": "01 - Primary Categories/01 - Incident Response.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Content/03 - Splunk Crash Course - Search Queries.md",
+                "file": "01 - Primary Categories/01 - Incident Response.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Content/03 - Splunk Crash Course - Search Queries.md",
+                "file": "01 - Primary Categories/01 - Incident Response.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Content/03 - Splunk Crash Course - Search Queries.md"
+                "file": "01 - Primary Categories/01 - Incident Response.md"
               }
             }
           },
@@ -179,36 +179,38 @@
   },
   "active": "464b0e4bef9d9c90",
   "lastOpenFiles": [
-    "01 - Primary Categories/01 - Security Information and Event Management.md",
-    "03 - Content/03 - Splunk Crash Course - Navigating Splunk.md",
-    "03 - Content/03 - Visualization Tools.md",
-    "01 - Primary Categories/01 - Phishing Analysis.md",
-    "01 - Primary Categories/01 - Security Fundamentals.md",
-    "01 - Primary Categories/01 - Digital Forensics.md",
+    "03 - Content/03 - Preparation - Asset inventory and Risk Assessments.md",
+    "01 - Primary Categories/01 - Incident Response.md",
+    "03 - Content/03 - Preparation - Incident Response Teams.md",
+    "03 - Content/03 - Preparation - Incident Response Plan.md",
+    "03 - Content/03 - Security Events vs Security Incidents.md",
+    "03 - Content/03 - Incident Response Lifecycle.md",
+    "03 - Content/03 - Incident Response Glossary.md",
+    "03 - Content/03 - DeepBlueCLI For Event Log Analysis.md",
+    "03 - Content/03 - CMD and PowerShell For Incident Response.md",
+    "03 - Content/03 - Introduction to Wireshark (Analysis).md",
+    "03 - Content/03 - Introduction to Wireshark (GUI).md",
+    "03 - Content/03 - Using Baselines & Behaviour Profiles.md",
+    "03 - Content/03 - Common Events & Incidents.md",
+    "03 - Content/03 - Section Introduction, Detection & Analysis.md",
+    "03 - Content/03 - Prevention - Human Defenses.md",
+    "03 - Content/03 - Prevention - Physical Defenses.md",
+    "03 - Content/03 - Prevention - Email Defenses.md",
+    "03 - Content/03 - Prevention - Network Defenses.md",
+    "03 - Content/03 - Prevention - Host Defenses.md",
+    "03 - Content/03 - Prevention - DMZ.md",
+    "03 - Content/03 - Further Reading Materials, Incident Response.md",
+    "03 - Content/03 - CSIRT and CERT Explained.md",
+    "04 - Templates/Attachments/Pasted image 20230622120512.png",
+    "04 - Templates/Attachments/Pasted image 20230622111639.png",
+    "03 - Content/03 - Why is Incident Response Needed.md",
+    "03 - Content/03 - What is Incident Response.md",
+    "01 - Primary Categories/01 - Threat Intelligence.md",
     "03 - Content/03 - Splunk Crash Course - Search Queries.md",
-    "000 - Global Index.md",
-    "02 - Secondary Categories/02 - Networking.md",
-    "03 - Content/03 - Writing Sigma Rules.md",
-    "03 - Content/03 - Splunk Crash Course - Creating Dashboards.md",
-    "03 - Content/03 - Splunk Crash Course - Creating Alerts.md",
-    "03 - Content/03 - Sigma.md",
-    "03 - Content/03 - SIEM Rules.md",
-    "03 - Content/03 - Normalization and Processing.md",
-    "03 - Content/03 - Syslog.md",
-    "03 - Content/03 - Windows Event Logs.md",
-    "03 - Content/03 - Log Aggregation Explained.md",
-    "03 - Content/03 - Other Logs.md",
-    "03 - Content/03 - Sysmon.md",
     "04 - Templates/Attachments/Pasted image 20230620210432.png",
     "04 - Templates/Attachments/Pasted image 20230620205614.png",
     "04 - Templates/Attachments/Pasted image 20230620205542.png",
     "04 - Templates/Attachments/Pasted image 20230620205519.png",
-    "03 - Content/03 - What is Logging.md",
-    "03 - Content/03 - Autopsy Walkthrough.md",
-    "03 - Content/03 - What is a SIEM.md",
-    "03 - Content/03 - SIEM Platforms.md",
-    "03 - Content/03 - SIEM Glossary.md",
-    "03 - Content/03 - Further Reading Material, SIEM.md",
     "04 - Templates/Attachments/Pasted image 20230620193158.png",
     "04 - Templates/Attachments/Pasted image 20230620192951.png",
     "03 - Linux Artifacts -/Var/Lib and /Var",
@@ -222,8 +224,6 @@
     "03 - Linux Artifacts -/Var/Lib and/Var",
     "03 - Linux Artifacts -/Var/Lib and",
     "04 - Templates/Attachments/Pasted image 20230619195724.png",
-    "04 - Templates/Attachments/Pasted image 20230619195658.png",
-    "04 - Templates/Attachments/Pasted image 20230619122211.png",
-    "04 - Templates/Attachments/Pasted image 20230619121741.png"
+    "04 - Templates/Attachments/Pasted image 20230619195658.png"
   ]
 }
