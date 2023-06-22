@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Primary Categories/01 - Incident Response.md",
+                "file": "03 - Content/03 - Prevention - DMZ.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Primary Categories/01 - Incident Response.md",
+                "file": "03 - Content/03 - Prevention - DMZ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Primary Categories/01 - Incident Response.md",
+                "file": "03 - Content/03 - Prevention - DMZ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Primary Categories/01 - Incident Response.md"
+                "file": "03 - Content/03 - Prevention - DMZ.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "464b0e4bef9d9c90",
   "lastOpenFiles": [
-    "03 - Content/03 - Preparation - Asset inventory and Risk Assessments.md",
+    "04 - Templates/Attachments/Pasted image 20230622195508.png",
     "01 - Primary Categories/01 - Incident Response.md",
+    "03 - Content/03 - Preparation - Asset inventory and Risk Assessments.md",
     "03 - Content/03 - Preparation - Incident Response Teams.md",
     "03 - Content/03 - Preparation - Incident Response Plan.md",
     "03 - Content/03 - Security Events vs Security Incidents.md",
@@ -206,7 +207,6 @@
     "03 - Content/03 - Why is Incident Response Needed.md",
     "03 - Content/03 - What is Incident Response.md",
     "01 - Primary Categories/01 - Threat Intelligence.md",
-    "03 - Content/03 - Splunk Crash Course - Search Queries.md",
     "04 - Templates/Attachments/Pasted image 20230620210432.png",
     "04 - Templates/Attachments/Pasted image 20230620205614.png",
     "04 - Templates/Attachments/Pasted image 20230620205542.png",
