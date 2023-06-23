@@ -41,13 +41,9 @@ Search Tag: #🗺
 
 - [[03 - What are Case Management Tools]]
 - [[03 - TheHive Explained]]
-- [[03 - Using TheHive - Cases]]
-- [[03 - Using TheHive - Dashboards]]
-- [[03 - Using TheHive - Searching]]
 
 ## Containment, Eradication, and Recovery Phase
 
-- [[03 - Section Introduction, Containment, Eradication, & Recovery]]
 - [[03 - Incident Containment]]
 - [[03 - Taking Forensic Images]]
 - [[03 - Identifying and Removing Malicious Artifacts]]
@@ -55,7 +51,6 @@ Search Tag: #🗺
 
 ## Lessons Learned and Reporting
 
-- [[03 - Section Introduction, Lessons Learned & Reporting]]
 - [[03 - What Went Well]]
 - [[03 - What Could be Improved]]
 - [[03 - Importance of Documentation]]
@@ -66,6 +61,7 @@ Search Tag: #🗺
 ## MITRE ATT&CK Framework
 
 - [[03 - Section Introduction, ATT&CK]]
+- [[03 - Using ATT&CK Navigator]]
 - [[03 - Initial Access]]
 - [[03 - Execution]]
 - [[03 - Persistence]]

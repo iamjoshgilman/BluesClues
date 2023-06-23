@@ -25,9 +25,8 @@ Below we’re going to cover a number of commands that may be useful for securit
 
 **Description:** This command will get network configuration information from the local system, including the assigned IP address and the device’s MAC address.
 
-**Example:** In this example we can see that we have the hostname “`**MSEDGEWIN10**`“, a MAC address of “`**00-0C-29-AA-02-FA**`“, and IPv4 address of “`**192.168.125.129**`” . We can also see that the DNS server being used for name resolution is currently “`**192.168.125.2**`“.
+**Example:** In this example we can see that we have the hostname “**`MSEDGEWIN10`**“, a MAC address of “**`00-0C-29-AA-02-FA`**“, and IPv4 address of “**`192.168.125.129`**” . We can also see that the DNS server being used for name resolution is currently “**`192.168.125.2`**“.
 
-  
 ![](https://d2y9h8w1ydnujs.cloudfront.net/uploads/content/images/14847d805a0d38e67490eb2e75c82dd93209fe5d7ee211d1e08262afbd0cfafa805786899cb61ad98be391b0fe55.png)
 
 ## `tasklist`
@@ -76,7 +75,7 @@ Below we’re going to cover a number of commands that may be useful for securit
 
 ![](https://d2y9h8w1ydnujs.cloudfront.net/uploads/content/images/36de2e89e9156913dde61b5bf16e571888fa4c5a69fa1dbe9f58aeb476cfdd2fc6a7f066122cf59adb6cd7d4f7d9.png)
 
-We can replace “administrators” with any local group that we want to enumerate. To see a list of all groups, use the command `**net localgroup**`. If you want to search for users in a group that includes spaces, you’ll need to run your commands like this: `net localgroup "Remote Desktop Users"`.
+We can replace “administrators” with any local group that we want to enumerate. To see a list of all groups, use the command **`net localgroup`**. If you want to search for users in a group that includes spaces, you’ll need to run your commands like this: **`net localgroup "Remote Desktop Users"`**.
 
 ## `sc query | more`
 
@@ -94,7 +93,6 @@ We can replace “administrators” with any local group that we want to enumera
 
 PowerShell is amazing, and chances are you’ll use it a lot while working in the security industry. We can automate complex tasks, use it for offensive security purposes, or during security investigations to get more information about a user or system. For incident response, we can use it similarly to CMD, but we can often retrieve much more information.
 
-  
 ## `Get-NetIPConfiguration` and `Get-NetIPAddress`
 
 **Description:** Similar to ifconfig in CMD, we can use the two above commands to get network-related information from the system.  

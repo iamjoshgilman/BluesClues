@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Content/02 - Splunk.md",
+                "file": "03 - Content/03 - DeepBlueCLI For Event Log Analysis.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "7516cff5c268ef96",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Content/02 - Splunk.md",
+                "file": "03 - Content/03 - DeepBlueCLI For Event Log Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Content/02 - Splunk.md",
+                "file": "03 - Content/03 - DeepBlueCLI For Event Log Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Content/02 - Splunk.md"
+                "file": "03 - Content/03 - DeepBlueCLI For Event Log Analysis.md"
               }
             }
           },
@@ -167,12 +175,6 @@
   },
   "active": "464b0e4bef9d9c90",
   "lastOpenFiles": [
-    "000 - Global Index.md",
-    "03 - Content/02 - Splunk.md",
-    "03 - Content/03 - Splunk Crash Course - Search Queries.md",
-    "01 - Primary Categories/01 - Security Information and Event Management.md",
-    "01 - Primary Categories/01 - Incident Response.md",
-    "03 - Content/03 - DeepBlueCLI For Event Log Analysis.md",
     "03 - Content/03 - Collection.md",
     "03 - Content/03 - Command and Control.md",
     "03 - Content/03 - Credential Access.md",
@@ -193,6 +195,12 @@
     "03 - Content/03 - Reporting Considerations.md",
     "03 - Content/03 - Reporting Format.md",
     "03 - Content/03 - Section Introduction, ATT&CK.md",
+    "03 - Content/03 - Taking Forensic Images.md",
+    "03 - Content/03 - TheHive Explained.md",
+    "03 - Content/03 - Using ATT&CK Navigator.md",
+    "03 - Content/03 - Using TheHive - Cases.md",
+    "03 - Content/03 - What are Case Management Tools.md",
+    "03 - Content/03 - What Could be Improved.md",
     "04 - Templates/Attachments/Pasted image 20230623101715.png",
     "04 - Templates/Attachments/Pasted image 20230623103742.png",
     "04 - Templates/Attachments/Pasted image 20230623104659.png",
