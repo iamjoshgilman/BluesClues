@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Content/02 - Splunk.md",
+                "file": "03 - Content/03 - Regular Expressions (Regex) in Splunk.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Content/02 - Splunk.md",
+                "file": "03 - Content/03 - Regular Expressions (Regex) in Splunk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Content/02 - Splunk.md",
+                "file": "03 - Content/03 - Regular Expressions (Regex) in Splunk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Content/02 - Splunk.md"
+                "file": "03 - Content/03 - Regular Expressions (Regex) in Splunk.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "464b0e4bef9d9c90",
   "lastOpenFiles": [
-    "000 - Global Index.md",
     "03 - Content/02 - Splunk.md",
+    "03 - Content/03 - Regular Expressions (Regex) in Splunk.md",
+    "000 - Global Index.md",
     "03 - Content/03 - Splunk Crash Course - Search Queries.md",
     "01 - Primary Categories/01 - Security Information and Event Management.md",
     "01 - Primary Categories/01 - Incident Response.md",
@@ -192,7 +193,6 @@
     "03 - Content/03 - Privilege Escalation.md",
     "03 - Content/03 - Reporting Considerations.md",
     "03 - Content/03 - Reporting Format.md",
-    "03 - Content/03 - Section Introduction, ATT&CK.md",
     "04 - Templates/Attachments/Pasted image 20230623101715.png",
     "04 - Templates/Attachments/Pasted image 20230623103742.png",
     "04 - Templates/Attachments/Pasted image 20230623104659.png",
