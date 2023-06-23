@@ -13,22 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Content/03 - Setting up a Firewall.md",
+                "file": "03 - Content/03 - Introduction to Wireshark (Analysis).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bdc206b4a2bfaa39",
+            "id": "7516cff5c268ef96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Content/03 - Endpoint Security.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -60,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hids",
+                "query": "ids",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Content/03 - Setting up a Firewall.md",
+                "file": "03 - Content/03 - Introduction to Wireshark (Analysis).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Content/03 - Setting up a Firewall.md",
+                "file": "03 - Content/03 - Introduction to Wireshark (Analysis).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Content/03 - Setting up a Firewall.md"
+                "file": "03 - Content/03 - Introduction to Wireshark (Analysis).md"
               }
             }
           },
@@ -180,41 +176,41 @@
   "active": "464b0e4bef9d9c90",
   "lastOpenFiles": [
     "01 - Primary Categories/01 - Incident Response.md",
-    "03 - Content/03 - Setting up a Firewall.md",
+    "03 - Content/03 - CMD and PowerShell For Incident Response.md",
+    "03 - Content/03 - Introduction to Wireshark (Analysis).md",
+    "03 - Content/03 - Introduction to Wireshark (GUI).md",
+    "03 - Content/03 - Using Baselines & Behaviour Profiles.md",
+    "04 - Templates/Attachments/Pasted image 20230622204610.png",
+    "03 - Content/03 - Common Events & Incidents.md",
+    "04 - Templates/Attachments/Pasted image 20230622204349.png",
+    "04 - Templates/Attachments/Pasted image 20230622204325.png",
+    "04 - Templates/Attachments/Pasted image 20230622204136.png",
+    "04 - Templates/Attachments/Pasted image 20230622204108.png",
+    "04 - Templates/Attachments/Pasted image 20230622204032.png",
+    "04 - Templates/Attachments/Pasted image 20230622204004.png",
+    "03 - Content/03 - Preparation - Asset inventory and Risk Assessments.md",
+    "03 - Content/03 - Incident Response Glossary.md",
+    "01 - Primary Categories/01 - Security Fundamentals.md",
+    "03 - Content/03 - Prevention - Email Defenses.md",
     "03 - Content/03 - Prevention - Network Defenses.md",
+    "03 - Content/03 - Prevention - Host Defenses.md",
+    "03 - Content/03 - Prevention - Physical Defenses.md",
+    "03 - Content/03 - Prevention - Human Defenses.md",
+    "03 - Content/03 - Endpoint Security.md",
+    "03 - Content/03 - Setting up a Firewall.md",
     "04 - Templates/Attachments/Pasted image 20230622201806.png",
     "04 - Templates/Attachments/Pasted image 20230622201738.png",
-    "03 - Content/03 - Prevention - Host Defenses.md",
-    "03 - Content/03 - Endpoint Security.md",
     "03 - Content/03 - Endpoint Security^block1.md",
     "03 - Content/03 - TTP Gathering and Distribution.md",
     "03 - Content/03 - IOC Monitoring.md",
     "03 - Content/Log.md",
-    "01 - Primary Categories/01 - Security Fundamentals.md",
     "03 - Content/03 - Physical Security.md",
     "000 - Global Index.md",
     "01 - Primary Categories/01 - Phishing Analysis.md",
     "01 - Primary Categories/01 - Digital Forensics.md",
     "01 - Primary Categories/01 - Security Information and Event Management.md",
     "03 - Content/03 - Visualization Tools.md",
-    "03 - Content/03 - Prevention - DMZ.md",
     "04 - Templates/Attachments/Pasted image 20230622195533.png",
-    "04 - Templates/Attachments/Pasted image 20230622195508.png",
-    "03 - Content/03 - Preparation - Asset inventory and Risk Assessments.md",
-    "03 - Content/03 - Preparation - Incident Response Teams.md",
-    "03 - Content/03 - Preparation - Incident Response Plan.md",
-    "03 - Content/03 - Security Events vs Security Incidents.md",
-    "03 - Content/03 - Incident Response Lifecycle.md",
-    "03 - Content/03 - Incident Response Glossary.md",
-    "03 - Content/03 - DeepBlueCLI For Event Log Analysis.md",
-    "03 - Content/03 - CMD and PowerShell For Incident Response.md",
-    "03 - Content/03 - Introduction to Wireshark (Analysis).md",
-    "04 - Templates/Attachments/Pasted image 20230622120512.png",
-    "04 - Templates/Attachments/Pasted image 20230622111639.png",
-    "04 - Templates/Attachments/Pasted image 20230620210432.png",
-    "04 - Templates/Attachments/Pasted image 20230620205614.png",
-    "04 - Templates/Attachments/Pasted image 20230620205542.png",
-    "04 - Templates/Attachments/Pasted image 20230620205519.png",
     "03 - Linux Artifacts -/Var/Lib and /Var",
     "03 - Linux Artifacts -/Var/Lib and ",
     "03 - Linux Artifacts -/Var",

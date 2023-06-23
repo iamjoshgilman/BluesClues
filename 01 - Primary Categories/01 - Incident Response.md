@@ -30,7 +30,6 @@ Search Tag: #🗺
 
 ## Detection and Analysis Phase
 
-- [[03 - Section Introduction, Detection & Analysis]]
 - [[03 - Common Events & Incidents]]
 - [[03 - Using Baselines & Behaviour Profiles]]
 - [[03 - Introduction to Wireshark (GUI)]]
