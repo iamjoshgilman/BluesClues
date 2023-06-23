@@ -10,7 +10,7 @@ Secondary Categories: [[]]
 Links: [[]] 
 Search Tag: #📖  
 
-# [[TTP Gathering and Distribution]]  
+# [[03 - TTP Gathering and Distribution]]  
 ---
 
 # Strategic Threat Intelligence Analyst: IOC Gathering and Distribution

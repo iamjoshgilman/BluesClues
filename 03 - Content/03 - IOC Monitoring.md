@@ -10,7 +10,7 @@ Secondary Categories: [[]]
 Links: [[]] 
 Search Tag: #📖  
 
-# [[IOC Monitoring]]  
+# [[03 - IOC Monitoring]]  
 ---
 
 IOC monitoring plays a critical role in security operations, enabling security analysts to detect and respond to malicious activity by continuously monitoring for indicators of compromise (IOCs) or precursors across the environment. Watchlists, created in SIEM or EDR platforms, are used to track these IOCs and trigger alerts when any malicious indicators are observed.

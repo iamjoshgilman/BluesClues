@@ -35,7 +35,7 @@ Search Tag: #🗺
 ## Tactical Threat Intelligence
 
 - [[03 - Threat Exposure Checks Explained]]
-- [[IOC Monitoring]]
+- [[03 - IOC Monitoring]]
 - [[03 - Public Exposure Checks Explained]]
 - [[03 - Threat Intelligence Platforms]]
 - [[03 - Malware Information Sharing Platform (MISP)]]
@@ -43,6 +43,6 @@ Search Tag: #🗺
 ## Strategic Threat Intelligence
 
 - [[03 - Intelligence Sharing and Partnerships]]
-- [[TTP Gathering and Distribution]]
+- [[03 - TTP Gathering and Distribution]]
 - [[03 - OSINT vs Paid-for Sources]]
 - [[03 - Traffic Light Protocol (TLP)]]

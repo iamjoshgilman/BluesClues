@@ -52,13 +52,15 @@ In this approach, a single firewall with a minimum of 3 network interfaces is us
 
 A more secure approach involves using two firewalls to create a DMZ. The frontend firewall only allows traffic destined for the DMZ, while the backend firewall handles traffic from the DMZ to the internal (private) network. It is recommended to use firewalls from separate vendors to further increase protection and reduce vulnerabilities.
 
+![[Pasted image 20230622195533.png]]
+
 ## Benefits of a DMZ
 
 The primary benefits of a DMZ include:
 
-1. Access control for organizations: A DMZ allows organizations to provide access to services outside their network perimeters through the public internet while maintaining network segmentation. It increases the obstacles an unauthorized user must overcome to gain access to the private network.
-2. Prevention of network reconnaissance: The DMZ acts as a buffer, preventing attackers from scoping out potential targets within the network. Even if a system within the DMZ is compromised, the private network remains protected by the internal firewall.
-3. Protection against IP spoofing: A DMZ can stall potential IP spoofers by verifying the legitimacy of IP addresses through another service on the network before granting access.
+1. **Access control for organizations**: A DMZ allows organizations to provide access to services outside their network perimeters through the public internet while maintaining network segmentation. It increases the obstacles an unauthorized user must overcome to gain access to the private network.
+2. **Prevention of network reconnaissance**: The DMZ acts as a buffer, preventing attackers from scoping out potential targets within the network. Even if a system within the DMZ is compromised, the private network remains protected by the internal firewall.
+3. **Protection against IP spoofing**: A DMZ can stall potential IP spoofers by verifying the legitimacy of IP addresses through another service on the network before granting access.
 
 Remember these key points:
 - DMZ stands for demilitarized zone, which separates the LAN from untrusted networks.

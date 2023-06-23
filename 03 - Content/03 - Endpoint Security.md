@@ -14,10 +14,10 @@ Search Tag: #📖
 ---
 
 ### Host Intrusion Detection (HIDS)
-- Software installed on an endpoint that allows for the detection of suspicious or malicious activity using rules which are checked against activity to see if it matches any known malicious patterns.`
+- Software installed on an endpoint that allows for the detection of suspicious or malicious activity using rules which are checked against activity to see if it matches any known malicious patterns. ^block1
 
 ### Host Intrusion Prevention (HIPS)
-- Software installed on an endpoint that works similarly to HIDS but is ==able to take autonomous actions to defend systems== once the malicious activity has been detected. Rules are written to search for specific patterns of activity, but with HIPS these rules contain actions, so the software knows what to do when unusual activity is detected. This can include terminating connections to websites or IP addresses, deleting malicious files, or generating an alert.`
+- Software installed on an endpoint that works similarly to HIDS but is ==able to take autonomous actions to defend systems== once the malicious activity has been detected. Rules are written to search for specific patterns of activity, but with HIPS these rules contain actions, so the software knows what to do when unusual activity is detected. This can include terminating connections to websites or IP addresses, deleting malicious files, or generating an alert. ^block2
 
 ### Anti-Virus Solutions
 - Often abbreviated at 'AV' should be deployed on all endpoints, such as desktops, laptops, and servers. This is a fundamental security control that works to detect and remove known malware that is present on the system. There are two types of anti-virus solutions:

@@ -23,6 +23,7 @@ Search Tag: #🗺
 - [[03 - Prevention - DMZ]]
 - [[03 - Prevention - Host Defenses]]
 - [[03 - Prevention - Network Defenses]]
+- [[03 - Setting up a Firewall]]
 - [[03 - Prevention - Email Defenses]]
 - [[03 - Prevention - Physical Defenses]]
 - [[03 - Prevention - Human Defenses]]
