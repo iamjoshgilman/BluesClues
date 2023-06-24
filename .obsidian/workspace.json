@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Content/03 - Regular Expressions (Regex) in Splunk.md",
+                "file": "03 - Content/02 - Splunk.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Content/03 - Regular Expressions (Regex) in Splunk.md",
+                "file": "03 - Content/02 - Splunk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Content/03 - Regular Expressions (Regex) in Splunk.md",
+                "file": "03 - Content/02 - Splunk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Content/03 - Regular Expressions (Regex) in Splunk.md"
+                "file": "03 - Content/02 - Splunk.md"
               }
             }
           },
@@ -167,10 +167,10 @@
   },
   "active": "464b0e4bef9d9c90",
   "lastOpenFiles": [
+    "03 - Content/03 - Splunk Crash Course - Search Queries.md",
     "03 - Content/02 - Splunk.md",
     "03 - Content/03 - Regular Expressions (Regex) in Splunk.md",
     "000 - Global Index.md",
-    "03 - Content/03 - Splunk Crash Course - Search Queries.md",
     "01 - Primary Categories/01 - Security Information and Event Management.md",
     "01 - Primary Categories/01 - Incident Response.md",
     "03 - Content/03 - DeepBlueCLI For Event Log Analysis.md",
