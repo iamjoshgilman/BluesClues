@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Content/02 - Splunk.md",
+                "file": "03 - Content/02 - Autopsy.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Content/02 - Splunk.md",
+                "file": "03 - Content/02 - Autopsy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Content/02 - Splunk.md",
+                "file": "03 - Content/02 - Autopsy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Content/02 - Splunk.md"
+                "file": "03 - Content/02 - Autopsy.md"
               }
             }
           },
@@ -167,11 +167,12 @@
   },
   "active": "464b0e4bef9d9c90",
   "lastOpenFiles": [
-    "03 - Content/03 - Commands for Aggregation and Grouping Splunk.md",
+    "000 - Global Index.md",
+    "03 - Content/02 - Autopsy.md",
     "03 - Content/02 - Splunk.md",
+    "03 - Content/03 - Commands for Aggregation and Grouping Splunk.md",
     "03 - Content/03 - Splunk Crash Course - Search Queries.md",
     "03 - Content/03 - Regular Expressions (Regex) in Splunk.md",
-    "000 - Global Index.md",
     "01 - Primary Categories/01 - Security Information and Event Management.md",
     "01 - Primary Categories/01 - Incident Response.md",
     "03 - Content/03 - DeepBlueCLI For Event Log Analysis.md",
@@ -192,7 +193,6 @@
     "03 - Content/03 - Lateral Movement.md",
     "03 - Content/03 - Persistence.md",
     "03 - Content/03 - Privilege Escalation.md",
-    "03 - Content/03 - Reporting Considerations.md",
     "04 - Templates/Attachments/Pasted image 20230623101715.png",
     "04 - Templates/Attachments/Pasted image 20230623103742.png",
     "04 - Templates/Attachments/Pasted image 20230623104659.png",
