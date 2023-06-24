@@ -167,8 +167,9 @@
   },
   "active": "464b0e4bef9d9c90",
   "lastOpenFiles": [
-    "03 - Content/03 - Splunk Crash Course - Search Queries.md",
+    "03 - Content/03 - Commands for Aggregation and Grouping Splunk.md",
     "03 - Content/02 - Splunk.md",
+    "03 - Content/03 - Splunk Crash Course - Search Queries.md",
     "03 - Content/03 - Regular Expressions (Regex) in Splunk.md",
     "000 - Global Index.md",
     "01 - Primary Categories/01 - Security Information and Event Management.md",
@@ -192,7 +193,6 @@
     "03 - Content/03 - Persistence.md",
     "03 - Content/03 - Privilege Escalation.md",
     "03 - Content/03 - Reporting Considerations.md",
-    "03 - Content/03 - Reporting Format.md",
     "04 - Templates/Attachments/Pasted image 20230623101715.png",
     "04 - Templates/Attachments/Pasted image 20230623103742.png",
     "04 - Templates/Attachments/Pasted image 20230623104659.png",

@@ -24,6 +24,8 @@ index="test" | stats count by sourcetype
 ```
 
 [[03 - Regular Expressions (Regex) in Splunk]]
+[[03 - Commands for Aggregation and Grouping Splunk]]
+
 
 ___
 
