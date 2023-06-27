@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Secondary Categories/02 - WireShark.md",
+                "file": "000 - Global Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Secondary Categories/02 - WireShark.md",
+                "file": "000 - Global Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Secondary Categories/02 - WireShark.md",
+                "file": "000 - Global Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Secondary Categories/02 - WireShark.md"
+                "file": "000 - Global Index.md"
               }
             }
           },
@@ -167,9 +167,14 @@
   },
   "active": "464b0e4bef9d9c90",
   "lastOpenFiles": [
+    "02 - Secondary Categories/02 - WireShark.md",
+    "04 - Templates/Attachments/Pasted image 20230626111535.png",
+    "04 - Templates/Attachments/Pasted image 20230626111448.png",
+    "04 - Templates/Attachments/Pasted image 20230626102733.png",
+    "04 - Templates/Attachments/Pasted image 20230626102649.png",
+    "04 - Templates/Attachments/Pasted image 20230626102618.png",
     "04 - Templates/Attachments/Pasted image 20230624214118.png",
     "02 - Secondary Categories/02 - Splunk.md",
-    "02 - Secondary Categories/02 - WireShark.md",
     "000 - Global Index.md",
     "02 - Secondary Categories/02 - Autopsy.md",
     "03 - Content/03 - Commands for Aggregation and Grouping Splunk.md",
@@ -197,12 +202,6 @@
     "04 - Templates/Attachments/Pasted image 20230623103742.png",
     "04 - Templates/Attachments/Pasted image 20230623104659.png",
     "04 - Templates/Attachments/Pasted image 20230623104724.png",
-    "04 - Templates/Attachments/Pasted image 20230622204610.png",
-    "04 - Templates/Attachments/Pasted image 20230622204349.png",
-    "04 - Templates/Attachments/Pasted image 20230622204325.png",
-    "04 - Templates/Attachments/Pasted image 20230622204136.png",
-    "04 - Templates/Attachments/Pasted image 20230622204108.png",
-    "04 - Templates/Attachments/Pasted image 20230622204032.png",
     "03 - Linux Artifacts -/Var/Lib and /Var",
     "03 - Linux Artifacts -/Var/Lib and ",
     "03 - Linux Artifacts -/Var",

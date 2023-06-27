@@ -17,5 +17,6 @@
     "omega-hr",
     "realistic-highlight"
   ],
-  "cssTheme": ""
+  "cssTheme": "",
+  "baseFontSize": 13
 }
