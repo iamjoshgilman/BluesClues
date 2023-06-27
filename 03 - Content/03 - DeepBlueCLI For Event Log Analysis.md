@@ -6,7 +6,7 @@ tags: #📖
 ---
 
 Primary Categories: [[01 - Incident Response]] | [[000 - Global Index]] 
-Secondary Categories: [[]] 
+Secondary Categories: [[02 - DeepBlueCLI]] 
 Links: [[]] 
 Search Tag: #📖  
 
@@ -26,9 +26,7 @@ This tool is able to identify a range of attacks (provided we have the relevant 
 - PowerShell used to download remote files
 - Suspicious service creation
 - Mimikatz used to dump LSASS.exe for credential collection
-- And much more!
 
-Below we'll show you how to use this tool to analyze local log files from the system.
 
 ---
 
@@ -79,14 +77,6 @@ Up until now we have been targeting the tool at specific .evtx files. If we are 
 **`./DeepBlue.ps1 -log security`**
 
 **`./DeepBlue.ps1 -log system`**
-
----
-
-# Conclusion
-
-DeepBlue is a very simple tool to use and allows us to identify suspicious events using pre-determined signatures and patterns from Windows Event logs without having to manually dig through them in Event Viewer or another program.
-
-As the lab for DeepBlue is currently under maintenance, to get hands-on with this tool we highly recommend that all students register to our platform Blue Team Labs Online for free and access the Deep Blue investigation lab, available here: [BTLO (blueteamlabs.online)](https://blueteamlabs.online/home/investigation/32)
 
 
 ___
