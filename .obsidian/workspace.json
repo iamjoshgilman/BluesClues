@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 - Global Index.md",
+                "file": "02 - Secondary Categories/02 - Splunk.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 - Global Index.md",
+                "file": "02 - Secondary Categories/02 - Splunk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 - Global Index.md",
+                "file": "02 - Secondary Categories/02 - Splunk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 - Global Index.md"
+                "file": "02 - Secondary Categories/02 - Splunk.md"
               }
             }
           },
@@ -167,8 +167,8 @@
   },
   "active": "464b0e4bef9d9c90",
   "lastOpenFiles": [
-    "02 - Secondary Categories/02 - Networking.md",
     "000 - Global Index.md",
+    "02 - Secondary Categories/02 - Networking.md",
     "03 - Content/03 - DeepBlueCLI For Event Log Analysis.md",
     "02 - Secondary Categories/02 - DeepBlueCLI.md",
     "02 - Secondary Categories/02 - WireShark.md",
