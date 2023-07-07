@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "000 - Global Index.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -167,9 +167,8 @@
   },
   "active": "464b0e4bef9d9c90",
   "lastOpenFiles": [
-    "02 - Secondary Categories/02 - Splunk.md",
-    "000 - Global Index.md",
     "02 - Secondary Categories/02 - Networking.md",
+    "000 - Global Index.md",
     "03 - Content/03 - DeepBlueCLI For Event Log Analysis.md",
     "02 - Secondary Categories/02 - DeepBlueCLI.md",
     "02 - Secondary Categories/02 - WireShark.md",
@@ -179,6 +178,7 @@
     "04 - Templates/Attachments/Pasted image 20230626102649.png",
     "04 - Templates/Attachments/Pasted image 20230626102618.png",
     "04 - Templates/Attachments/Pasted image 20230624214118.png",
+    "02 - Secondary Categories/02 - Splunk.md",
     "02 - Secondary Categories/02 - Autopsy.md",
     "03 - Content/03 - Commands for Aggregation and Grouping Splunk.md",
     "03 - Content/03 - Splunk Crash Course - Search Queries.md",
