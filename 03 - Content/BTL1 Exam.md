@@ -32,7 +32,7 @@ Search Tag: #📖
 ## Wireshark
 - TCP scan command 
 ```
-ip.src==172.16.0.2 and tcp.flags.syn == 1 and tcp.flags.ack == 0
+ip.src == 172.16.0.2 && tcp.flags.syn == 1 && tcp.flags.ack == 0
 ```
 
 
