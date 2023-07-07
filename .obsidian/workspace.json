@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Content/03 - File Reputation Tools.md",
+                "file": "03 - Content/03 - DeepBlueCLI For Event Log Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Content/03 - File Reputation Tools.md",
+                "file": "03 - Content/03 - DeepBlueCLI For Event Log Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Content/03 - File Reputation Tools.md",
+                "file": "03 - Content/03 - DeepBlueCLI For Event Log Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Content/03 - File Reputation Tools.md"
+                "file": "03 - Content/03 - DeepBlueCLI For Event Log Analysis.md"
               }
             }
           },
@@ -181,8 +180,10 @@
   },
   "active": "268e9bd7589d3941",
   "lastOpenFiles": [
-    "03 - Content/03 - Hashing and Integrity.md",
+    "02 - Secondary Categories/02 - DeepBlueCLI.md",
     "03 - Content/03 - File Reputation Tools.md",
+    "03 - Content/BTL1 Exam.md",
+    "03 - Content/03 - Hashing and Integrity.md",
     "03 - Content/03 - Email Header, Artifacts, and Body Content.md",
     "03 - Content/03 - Digital Evidence and Handling.md",
     "03 - Content/03 - Digital Forensics Glossary.md",
@@ -198,13 +199,11 @@
     "03 - Content/03 - What is Autopsy.md",
     "01 - Primary Categories/01 - Phishing Analysis.md",
     "03 - Content/03 - Splunk Crash Course - Navigating Splunk.md",
-    "03 - Content/BTL1 Exam.md",
     "000 - Global Index.md",
     "03 - Content/03 - Commands for Aggregation and Grouping Splunk.md",
     "03 - Content/03 - Manual Collection - File Artifacts.md",
     "02 - Secondary Categories/02 - Networking.md",
     "03 - Content/03 - DeepBlueCLI For Event Log Analysis.md",
-    "02 - Secondary Categories/02 - DeepBlueCLI.md",
     "02 - Secondary Categories/02 - WireShark.md",
     "04 - Templates/Attachments/Pasted image 20230626111535.png",
     "04 - Templates/Attachments/Pasted image 20230626111448.png",
