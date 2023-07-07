@@ -13,6 +13,41 @@ Search Tag: #📖
 # [[BTL1 Exam]]  
 ---
 
+# eM Client containing hosts
+- Florence Nightingale
+	- [x] Extracted
+	- [ ] Explored
+- Administrator 
+	- [ ] Extracted
+	- [ ] Explored
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

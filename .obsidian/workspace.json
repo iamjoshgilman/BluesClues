@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Content/BTL1 Exam.md",
+                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Content/BTL1 Exam.md",
+                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Content/BTL1 Exam.md",
+                "file": "01 - Primary Categories/01 - Phishing Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Content/BTL1 Exam.md"
+                "file": "01 - Primary Categories/01 - Phishing Analysis.md"
               }
             }
           },
@@ -180,6 +180,10 @@
   },
   "active": "268e9bd7589d3941",
   "lastOpenFiles": [
+    "03 - Content/03 - Manual Collection - File Artifacts.md",
+    "01 - Primary Categories/01 - Phishing Analysis.md",
+    "03 - Content/03 - Autopsy Walkthrough.md",
+    "02 - Secondary Categories/02 - Autopsy.md",
     "000 - Global Index.md",
     "03 - Content/BTL1 Exam.md",
     "02 - Secondary Categories/02 - Splunk.md",
@@ -193,7 +197,6 @@
     "04 - Templates/Attachments/Pasted image 20230626102649.png",
     "04 - Templates/Attachments/Pasted image 20230626102618.png",
     "04 - Templates/Attachments/Pasted image 20230624214118.png",
-    "02 - Secondary Categories/02 - Autopsy.md",
     "03 - Content/03 - Commands for Aggregation and Grouping Splunk.md",
     "03 - Content/03 - Splunk Crash Course - Search Queries.md",
     "03 - Content/03 - Regular Expressions (Regex) in Splunk.md",
@@ -209,9 +212,6 @@
     "03 - Content/03 - Identifying and Removing Malicious Artifacts.md",
     "03 - Content/03 - Identifying Root Cause and Recovery.md",
     "03 - Content/03 - Impact.md",
-    "03 - Content/03 - Importance of Documentation.md",
-    "03 - Content/03 - Incident Containment.md",
-    "03 - Content/03 - Incident Response Metrics.md",
     "04 - Templates/Attachments/Pasted image 20230623101715.png",
     "04 - Templates/Attachments/Pasted image 20230623103742.png",
     "04 - Templates/Attachments/Pasted image 20230623104659.png",
