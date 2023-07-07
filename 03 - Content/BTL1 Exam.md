@@ -29,7 +29,11 @@ Search Tag: #📖
 ## Malware
 - SHA256 - 9ACB79531CE18D940BF2259F0659E9B97DA5B562AD8B8B814C5030240B2BC4DF
 
-
+## Wireshark
+- TCP scan command 
+```
+ip.src==172.16.0.2 and tcp.flags.syn == 1 and tcp.flags.ack == 0
+```
 
 
 
