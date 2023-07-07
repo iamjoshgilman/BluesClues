@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 - Global Index.md",
-                "mode": "preview",
+                "file": "03 - Content/BTL1 Exam.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Content/03 - Splunk Crash Course - Search Queries.md",
+                "file": "03 - Content/03 - File Reputation Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ids",
+                "query": "hash powershell",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Content/03 - Splunk Crash Course - Search Queries.md",
+                "file": "03 - Content/03 - File Reputation Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Content/03 - Splunk Crash Course - Search Queries.md",
+                "file": "03 - Content/03 - File Reputation Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Content/03 - Splunk Crash Course - Search Queries.md"
+                "file": "03 - Content/03 - File Reputation Tools.md"
               }
             }
           },
@@ -180,14 +181,27 @@
   },
   "active": "268e9bd7589d3941",
   "lastOpenFiles": [
-    "02 - Secondary Categories/02 - Splunk.md",
-    "03 - Content/03 - Commands for Aggregation and Grouping Splunk.md",
-    "01 - Primary Categories/01 - Phishing Analysis.md",
-    "03 - Content/03 - Manual Collection - File Artifacts.md",
-    "03 - Content/03 - Autopsy Walkthrough.md",
+    "03 - Content/03 - Hashing and Integrity.md",
+    "03 - Content/03 - File Reputation Tools.md",
+    "03 - Content/03 - Email Header, Artifacts, and Body Content.md",
+    "03 - Content/03 - Digital Evidence and Handling.md",
+    "03 - Content/03 - Digital Forensics Glossary.md",
+    "03 - Content/03 - Defensive Measures Taken.md",
+    "01 - Primary Categories/01 - Digital Forensics.md",
+    "03 - Content/03 - Analysis Process, Tools, and Results.md",
+    "03 - Content/03 - Automated Artifact Analysis.md",
     "02 - Secondary Categories/02 - Autopsy.md",
-    "000 - Global Index.md",
+    "03 - Content/03 - Autopsy Walkthrough.md",
+    "02 - Secondary Categories/02 - Splunk.md",
+    "03 - Content/03 - Splunk Crash Course - Creating Alerts.md",
+    "03 - Content/03 - Splunk Crash Course - Search Queries.md",
+    "03 - Content/03 - What is Autopsy.md",
+    "01 - Primary Categories/01 - Phishing Analysis.md",
+    "03 - Content/03 - Splunk Crash Course - Navigating Splunk.md",
     "03 - Content/BTL1 Exam.md",
+    "000 - Global Index.md",
+    "03 - Content/03 - Commands for Aggregation and Grouping Splunk.md",
+    "03 - Content/03 - Manual Collection - File Artifacts.md",
     "02 - Secondary Categories/02 - Networking.md",
     "03 - Content/03 - DeepBlueCLI For Event Log Analysis.md",
     "02 - Secondary Categories/02 - DeepBlueCLI.md",
@@ -198,20 +212,7 @@
     "04 - Templates/Attachments/Pasted image 20230626102649.png",
     "04 - Templates/Attachments/Pasted image 20230626102618.png",
     "04 - Templates/Attachments/Pasted image 20230624214118.png",
-    "03 - Content/03 - Splunk Crash Course - Search Queries.md",
     "03 - Content/03 - Regular Expressions (Regex) in Splunk.md",
-    "01 - Primary Categories/01 - Security Information and Event Management.md",
-    "01 - Primary Categories/01 - Incident Response.md",
-    "03 - Content/03 - Collection.md",
-    "03 - Content/03 - Command and Control.md",
-    "03 - Content/03 - Credential Access.md",
-    "03 - Content/03 - Defense Evasion.md",
-    "03 - Content/03 - Discovery.md",
-    "03 - Content/03 - Execution.md",
-    "03 - Content/03 - Exfiltration.md",
-    "03 - Content/03 - Identifying and Removing Malicious Artifacts.md",
-    "03 - Content/03 - Identifying Root Cause and Recovery.md",
-    "03 - Content/03 - Impact.md",
     "04 - Templates/Attachments/Pasted image 20230623101715.png",
     "04 - Templates/Attachments/Pasted image 20230623103742.png",
     "04 - Templates/Attachments/Pasted image 20230623104659.png",
