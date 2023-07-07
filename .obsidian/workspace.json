@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Content/03 - DeepBlueCLI For Event Log Analysis.md",
+                "file": "03 - Content/03 - Windows Artifacts - Logon Events.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Pasted image 20230624214118.png\"",
+                "query": "event",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Secondary Categories/02 - WireShark.md",
+                "file": "03 - Content/03 - Windows Artifacts - Logon Events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Secondary Categories/02 - WireShark.md",
+                "file": "03 - Content/03 - Windows Artifacts - Logon Events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Secondary Categories/02 - WireShark.md"
+                "file": "03 - Content/03 - Windows Artifacts - Logon Events.md"
               }
             }
           },
@@ -190,24 +191,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e523a338327a0917",
+  "active": "268e9bd7589d3941",
   "lastOpenFiles": [
-    "03 - Content/BTL1 Exam.md",
-    "02 - Secondary Categories/02 - WireShark.md",
+    "01 - Primary Categories/01 - Digital Forensics.md",
     "03 - Content/03 - DeepBlueCLI For Event Log Analysis.md",
+    "02 - Secondary Categories/02 - WireShark.md",
+    "02 - Secondary Categories/02 - Splunk.md",
+    "02 - Secondary Categories/02 - Autopsy.md",
     "02 - Secondary Categories/02 - DeepBlueCLI.md",
+    "02 - Secondary Categories/02 - Governance Risk Compliance (GRC).md",
+    "02 - Secondary Categories/02 - Networking.md",
+    "03 - Content/BTL1 Exam.md",
     "03 - Content/03 - File Reputation Tools.md",
     "03 - Content/03 - Hashing and Integrity.md",
     "03 - Content/03 - Email Header, Artifacts, and Body Content.md",
     "03 - Content/03 - Digital Evidence and Handling.md",
     "03 - Content/03 - Digital Forensics Glossary.md",
     "03 - Content/03 - Defensive Measures Taken.md",
-    "01 - Primary Categories/01 - Digital Forensics.md",
     "03 - Content/03 - Analysis Process, Tools, and Results.md",
     "03 - Content/03 - Automated Artifact Analysis.md",
-    "02 - Secondary Categories/02 - Autopsy.md",
     "03 - Content/03 - Autopsy Walkthrough.md",
-    "02 - Secondary Categories/02 - Splunk.md",
     "03 - Content/03 - Splunk Crash Course - Creating Alerts.md",
     "03 - Content/03 - Splunk Crash Course - Search Queries.md",
     "03 - Content/03 - What is Autopsy.md",
@@ -216,14 +219,12 @@
     "000 - Global Index.md",
     "03 - Content/03 - Commands for Aggregation and Grouping Splunk.md",
     "03 - Content/03 - Manual Collection - File Artifacts.md",
-    "02 - Secondary Categories/02 - Networking.md",
     "04 - Templates/Attachments/Pasted image 20230626111535.png",
     "04 - Templates/Attachments/Pasted image 20230626111448.png",
     "04 - Templates/Attachments/Pasted image 20230626102733.png",
     "04 - Templates/Attachments/Pasted image 20230626102649.png",
     "04 - Templates/Attachments/Pasted image 20230626102618.png",
     "04 - Templates/Attachments/Pasted image 20230624214118.png",
-    "03 - Content/03 - Regular Expressions (Regex) in Splunk.md",
     "04 - Templates/Attachments/Pasted image 20230623101715.png",
     "04 - Templates/Attachments/Pasted image 20230623103742.png",
     "04 - Templates/Attachments/Pasted image 20230623104659.png",
