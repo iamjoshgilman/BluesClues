@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "268e9bd7589d3941",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Content/BTL1 Exam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 - Global Index.md",
+                "file": "03 - Content/BTL1 Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 - Global Index.md",
+                "file": "03 - Content/BTL1 Exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 - Global Index.md"
+                "file": "03 - Content/BTL1 Exam.md"
               }
             }
           },
@@ -165,10 +178,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "464b0e4bef9d9c90",
+  "active": "268e9bd7589d3941",
   "lastOpenFiles": [
-    "02 - Secondary Categories/02 - Splunk.md",
     "000 - Global Index.md",
+    "03 - Content/BTL1 Exam.md",
+    "02 - Secondary Categories/02 - Splunk.md",
     "02 - Secondary Categories/02 - Networking.md",
     "03 - Content/03 - DeepBlueCLI For Event Log Analysis.md",
     "02 - Secondary Categories/02 - DeepBlueCLI.md",
@@ -198,7 +212,6 @@
     "03 - Content/03 - Importance of Documentation.md",
     "03 - Content/03 - Incident Containment.md",
     "03 - Content/03 - Incident Response Metrics.md",
-    "03 - Content/03 - Initial Access.md",
     "04 - Templates/Attachments/Pasted image 20230623101715.png",
     "04 - Templates/Attachments/Pasted image 20230623103742.png",
     "04 - Templates/Attachments/Pasted image 20230623104659.png",
