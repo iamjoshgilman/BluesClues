@@ -97,8 +97,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,7 +189,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "464b0e4bef9d9c90",
+  "active": "e523a338327a0917",
   "lastOpenFiles": [
     "02 - Secondary Categories/02 - WireShark.md",
     "03 - Content/BTL1 Exam.md",
